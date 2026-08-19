@@ -1,0 +1,356 @@
+{
+  "date": "2026-08-19",
+  "issue": "Issue 01 · 19 August 2026",
+  "stories": [
+    {
+      "c": "North America",
+      "k": "Trinidad and Tobago",
+      "m": "policy",
+      "a": 1,
+      "h": "The Caribbean is finally building a ferry service between its own islands",
+      "w": "CARICOM set a September deadline for the regulatory framework and Trinidad has offered a vessel for the pilot. Moving between neighbouring islands has long meant flying, often via Miami.",
+      "s": "Caribbean Life",
+      "u": "https://www.caribbeanlife.com/as-caricom-leaders-meet-row-over-ceos-appointment-simmers/"
+    },
+    {
+      "c": "North America",
+      "k": "Jamaica",
+      "m": "news",
+      "a": 1,
+      "h": "CARICOM is fighting over who runs it, and one member wants a court to decide",
+      "w": "Trinidad and Tobago wants the Caribbean Court of Justice to rule on the secretary general's reappointment. Jamaica is not contesting it. The tenure ends in late August regardless.",
+      "s": "Jamaica Observer",
+      "u": "https://www.jamaicaobserver.com/2026/04/07/kamla-says-process-used-re-appoint-caricom-sg-long-term-effects-trinidadians/"
+    },
+    {
+      "c": "North America",
+      "k": "Mexico",
+      "m": "policy",
+      "a": 0,
+      "h": "Mexico stripped officials of the right to decide what they keep secret",
+      "w": "Sheinbaum's 4 August decree widens disclosure across contracts, audits and the Pemex and CFE subsidiaries. The bigger package goes to Congress in September.",
+      "s": "The Rio Times",
+      "u": "https://www.riotimesonline.com/sheinanti/"
+    },
+    {
+      "c": "South America",
+      "k": "Brazil",
+      "m": "news",
+      "a": 1,
+      "h": "Brazil auctioned oil blocks at the mouth of the Amazon months before hosting COP30",
+      "w": "Chevron, ExxonMobil, Petrobras and China's CNPC took blocks in the Foz do Amazonas basin. Indigenous and environmental groups are fighting it; the climate summit is in Belém.",
+      "s": "SUMAÚMA",
+      "u": "https://sumauma.com/en/da-foz-do-amazonas-a-fernando-de-noronha-a-vida-leiloada-em-172-blocos-de-petroleo/"
+    },
+    {
+      "c": "South America",
+      "k": "Argentina",
+      "m": "news",
+      "a": 1,
+      "h": "Argentina's Supreme Court told the president there are things only Congress can do",
+      "w": "On 14 August the court struck down part of an emergency decree. Milei has governed heavily by decree, and this is the first hard limit from a body he cannot dissolve.",
+      "s": "The Rio Times",
+      "u": "https://www.riotimesonline.com/argentina-supreme-court-limits-milei-emergency-decrees/"
+    },
+    {
+      "c": "South America",
+      "k": "Argentina",
+      "m": "policy",
+      "a": 0,
+      "h": "Argentina can now expel foreigners for speech the government calls hateful",
+      "w": "Decree 681/2026 covers barring entry and removing people already there. Who decides what counts as vilifying Argentines is the question nobody has answered.",
+      "s": "Buenos Aires Times",
+      "u": "https://www.batimes.com.ar/news/argentina/milei-signs-decree-allowing-argentina-to-bar-or-expel-foreigners-over-hate-speech.phtml"
+    },
+    {
+      "c": "Europe",
+      "k": "France",
+      "m": "policy",
+      "a": 0,
+      "h": "France banned cold calling outright, with fines up to €375,000 per call",
+      "w": "From 11 August, telemarketers need your consent first — an opt-in, not an opt-out. Individuals face up to €75,000 per call, companies five times that.",
+      "s": "Euronews",
+      "u": "https://www.euronews.com/business/2026/08/06/france-to-ban-cold-calling-from-11-august"
+    },
+    {
+      "c": "Europe",
+      "k": "France",
+      "m": "policy",
+      "a": 0,
+      "h": "France became the first EU country to bar under-15s from social media",
+      "w": "Australia went first globally; France is the first inside the bloc, which means 26 other governments now have a working precedent and a legal fight to watch.",
+      "s": "CNN",
+      "u": "https://www.cnn.com/2026/07/21/world/france-becomes-the-first-eu-country-to-ban-social-media-for-children"
+    },
+    {
+      "c": "Europe",
+      "k": "Belgium",
+      "m": "policy",
+      "a": 0,
+      "h": "From 2 August, AI in the EU has to say it is AI",
+      "w": "Deepfakes need labels and chatbots need to disclose themselves, across all 27 members at once. The rules apply directly — no national parliament had to pass anything.",
+      "s": "Demócrata",
+      "u": "https://www.democrata.es/en/democrat-explains/eu-ai-law-what-changes-from-august-2026/"
+    },
+    {
+      "c": "Europe",
+      "k": "Belgium",
+      "m": "policy",
+      "a": 0,
+      "h": "The EU wants to tax vapes and nicotine pouches for the first time",
+      "w": "It is the biggest rewrite of tobacco taxation in a decade, and it needs every member state to agree. Parliament already failed to take a position in June.",
+      "s": "Euronews",
+      "u": "https://www.euronews.com/my-europe/2026/08/18/could-the-eu-ban-smoking-commission-to-re-write-rules-for-the-next-generation"
+    },
+    {
+      "c": "Europe",
+      "k": "Spain",
+      "m": "news",
+      "a": 1,
+      "h": "Around 60,000 people crossed into Ceuta from Morocco in days",
+      "w": "Social media rumours and economic pressure drove the surge into Spain's North African enclave. Ceuta has about 85,000 residents.",
+      "s": "Reuters",
+      "u": "https://theprint.in/world/social-media-rumours-economic-hardship-fuel-migrant-surge-into-ceuta-2/3002612/"
+    },
+    {
+      "c": "Africa",
+      "k": "Kenya",
+      "m": "news",
+      "a": 1,
+      "h": "289 Kenyans were recruited into Russia's military. At least 69 are dead or missing.",
+      "w": "Families are still trying to find out what happened to them. Kenya's own government put out the number, which is what makes it official rather than rumour.",
+      "s": "The Standard",
+      "u": "https://www.standardmedia.co.ke/world/article/2001554409/grief-uncertainty-as-kenyan-families-seek-answers-on-kin-killed-missing-in-russia-ukraine-war"
+    },
+    {
+      "c": "Africa",
+      "k": "Burkina Faso",
+      "m": "news",
+      "a": 1,
+      "h": "Burkina Faso dissolved 118 organisations and suspended 564 more",
+      "w": "Civicus added the country to its human rights watchlist over the scale of it. That is most of the country's organised civil society, gone by administrative order.",
+      "s": "RFI",
+      "u": "https://www.rfi.fr/en/africa/20260801-burkina-faso-added-to-human-rights-watchlist-over-crackdown-on-civil-society"
+    },
+    {
+      "c": "Africa",
+      "k": "Ghana",
+      "m": "policy",
+      "a": 0,
+      "h": "Ghana's government backed five-year terms and a presidential age floor of 35",
+      "w": "The government accepted proposals for five-year presidential and parliamentary terms and wants the minimum presidential age cut from 40 to 35. The constitution has not changed yet; this is the government's position.",
+      "s": "Ghana News Agency",
+      "u": "https://gna.org.gh/2026/07/government-accepts-five-year-presidential-parliamentary-terms-2/"
+    },
+    {
+      "c": "Africa",
+      "k": "Côte d'Ivoire",
+      "m": "policy",
+      "a": 0,
+      "h": "The world's two biggest cocoa producers signed a pact to stop undercutting each other",
+      "w": "Ghana and Côte d'Ivoire grow most of the world's cocoa and have historically competed on price, which meant farmers absorbed the losses. Acting together is the whole point.",
+      "s": "RFI",
+      "u": "https://www.rfi.fr/en/africa/20260801-africa-s-top-cocoa-producers-pledge-fairer-prices-for-farmers"
+    },
+    {
+      "c": "Africa",
+      "k": "Kenya",
+      "m": "policy",
+      "a": 0,
+      "h": "Kenya passed a law setting out how citizens must be consulted before government decisions",
+      "w": "The Public Participation Bill applies to national and county government, parliament, the judiciary and state corporations. Consultation stops being a favour and becomes a procedure.",
+      "s": "Pulse Kenya",
+      "u": "https://www.pulse.co.ke/story/what-the-public-participation-law-will-change-for-kenyans-2026081306040901586"
+    },
+    {
+      "c": "Africa",
+      "k": "Sudan",
+      "m": "news",
+      "a": 0,
+      "h": "A Sudanese army drone struck a traditional village court in North Darfur, killing 35",
+      "w": "The court was in territory held by the RSF. Two years into this war, the places people go to settle ordinary disputes are now targets.",
+      "s": "AFP",
+      "u": "https://www.barrons.com/news/sudan-army-drone-attack-on-darfur-court-kills-35-cfa9a0ae"
+    },
+    {
+      "c": "Africa",
+      "k": "Senegal",
+      "m": "news",
+      "a": 1,
+      "h": "Macky Sall's run at the UN's top job collapsed in a straw poll",
+      "w": "Senegal's former president had assumed African backing would carry him. The poll showed it isn't there, and the campaign is effectively finished before it started.",
+      "s": "Africanews",
+      "u": "https://www.africanews.com/2026/08/01/former-senegalese-leader-salls-bid-for-un-top-job-in-trouble-after-straw-poll/"
+    },
+    {
+      "c": "Africa",
+      "k": "Mali",
+      "m": "news",
+      "a": 0,
+      "h": "Mali's former prime minister walked out of prison after serving a sentence for criticising the junta",
+      "w": "Moussa Mara was jailed for what he said about the military government. He announced his own release, which tells you something about how the news gets out now.",
+      "s": "Reuters",
+      "u": "https://ca.marketscreener.com/news/mali-s-former-prime-minister-announces-release-from-prison-ce7f50d9d989f220"
+    },
+    {
+      "c": "Africa",
+      "k": "South Africa",
+      "m": "policy",
+      "a": 0,
+      "h": "South Africa switched on digital travel authorisation with biometric checks before arrival",
+      "w": "Visitor visas and stay extensions move online under the Immigration Act. The queue at Home Affairs was the single most complained-about experience in the country.",
+      "s": "BusinessTech",
+      "u": "https://businesstech.co.za/news/government/839323/ramaphosa-puts-new-law-into-effect-in-south-africa/"
+    },
+    {
+      "c": "Africa",
+      "k": "Nigeria",
+      "m": "news",
+      "a": 0,
+      "h": "Nigeria sent 86 troops to hold up a neighbour's transition",
+      "w": "The ECOWAS stabilisation mission in Guinea-Bissau is West Africa policing West Africa. After a run of coups, the bloc is testing whether it still can.",
+      "s": "Premium Times",
+      "u": "https://www.premiumtimesng.com/news/headlines/900180-nigeria-deploys-86-troops-to-ecowas-peace-mission-in-guinea-bissau.html"
+    },
+    {
+      "c": "Asia",
+      "k": "Indonesia",
+      "m": "news",
+      "a": 1,
+      "h": "Indonesia's bullet train lost 5.1 trillion rupiah in six months",
+      "w": "Whoosh was the flagship of the country's infrastructure push and the losses land on state-owned firms. Every country weighing a high-speed line is reading the balance sheet.",
+      "s": "Jakarta Post",
+      "u": "https://www.thejakartapost.com/business/2026/08/03/whoosh-inflicts-rp-5-1-trillion-h1-loss-on-indonesian-soes"
+    },
+    {
+      "c": "Asia",
+      "k": "South Korea",
+      "m": "news",
+      "a": 0,
+      "h": "South Korea's Supreme Court confirmed Nippon Steel owes compensation for wartime forced labour",
+      "w": "The ruling covers relatives of a man held at the Kamaishi works. It landed on Liberation Day week, when the president was calling for closer ties with Japan.",
+      "s": "Asia Policy Point",
+      "u": "https://www.jiaponline.org/2026/08/asia-policy-events-week-of-august-16.html"
+    },
+    {
+      "c": "Asia",
+      "k": "Malaysia",
+      "m": "policy",
+      "a": 0,
+      "h": "Malaysia wants to tax electric vehicles to pay for the chargers they need",
+      "w": "EV owners currently pay nothing toward the public network everyone else's EVs will also need. Charging it to the cars is a bet that the fleet is now big enough to fund itself.",
+      "s": "Malay Mail",
+      "u": "https://www.malaymail.com/news/malaysia/2026/08/04/govt-eyes-levy-on-evs-to-close-gap-in-public-charging-infrastructure/230170"
+    },
+    {
+      "c": "Asia",
+      "k": "Philippines",
+      "m": "news",
+      "a": 1,
+      "h": "The Philippines' new AI push comes with a bill in power, water and land",
+      "w": "Pax Silica needs all three in a country that is short of the first two. The trade-off is being argued about before the data centres are built, which is unusual.",
+      "s": "Inquirer",
+      "u": "https://newsinfo.inquirer.net/2277163/pax-silica-faces-costly-power-water-and-land-trade-offs"
+    },
+    {
+      "c": "Asia",
+      "k": "Vietnam",
+      "m": "policy",
+      "a": 0,
+      "h": "Vietnam is rewriting the rules for how religious organisations operate",
+      "w": "The legal framework governing registration and activity is being modernised wholesale. In a one-party state, the terms on which faith groups exist are set by statute.",
+      "s": "VietNamNet",
+      "u": "https://vietnamnet.vn/en/vietnam-advances-legal-framework-for-religious-affairs-2541421.html"
+    },
+    {
+      "c": "Asia",
+      "k": "Indonesia",
+      "m": "news",
+      "a": 0,
+      "h": "Indonesia fired 137 people from its free school meals programme",
+      "w": "The scheme is the president's signature promise and it is being restructured mid-flight. Feeding tens of millions of children turns out to be an operations problem, not a budget one.",
+      "s": "Jakarta Globe",
+      "u": "https://jakartaglobe.id/news/indonesias-free-meals-program-overhaul-continues-with-137-dismissals"
+    },
+    {
+      "c": "Asia",
+      "k": "Cambodia",
+      "m": "policy",
+      "a": 1,
+      "h": "Cambodia is racing a clock most countries don't know they have",
+      "w": "The government is building policy around its demographic window — the years when working-age people outnumber dependents — aiming for high-income status by 2050. Miss it and it does not come back.",
+      "s": "Khmer Times",
+      "u": "https://www.khmertimeskh.com/501985364/cambodia-harnesses-demographic-window-for-high-income-by-2050/"
+    },
+    {
+      "c": "Asia",
+      "k": "Myanmar",
+      "m": "news",
+      "a": 1,
+      "h": "Myanmar's strategic oil pipeline is running dry",
+      "w": "It was built to give China a route bypassing the Malacca Strait, and it is one of the junta's few reliable earners. Depletion narrows an already short list.",
+      "s": "The Diplomat",
+      "u": "https://thediplomat.com/2026/08/myanmars-depleted-oil-pipeline/"
+    },
+    {
+      "c": "Asia",
+      "k": "Malaysia",
+      "m": "policy",
+      "a": 0,
+      "h": "Malaysia built a three-tier plan to keep eating if the shipping lanes close",
+      "w": "The strategy is explicitly designed around disruption in West Asia. Food security stopped being an agriculture question and became a logistics one.",
+      "s": "theVibes",
+      "u": "https://www.thevibes.com/articles/news/125819/government-unveils-three-tier-food-security-strategy-to-shield-malaysia-from-west-asia-crisis"
+    },
+    {
+      "c": "Asia",
+      "k": "Thailand",
+      "m": "news",
+      "a": 0,
+      "h": "Thailand needs far more migrant workers than it is comfortable admitting",
+      "w": "The workforce doing the country's hardest jobs is largely foreign and largely undiscussed. The economics and the politics are pointing in opposite directions.",
+      "s": "Bangkok Post",
+      "u": "https://www.bangkokpost.com/opinion/opinion/3296134/the-hidden-workforce-thailand-needs"
+    },
+    {
+      "c": "Oceania",
+      "k": "Vanuatu",
+      "m": "policy",
+      "a": 1,
+      "h": "Vanuatu launched four climate finance initiatives at once",
+      "w": "A country of roughly 330,000 people is building the machinery to receive and spend climate money on its own terms, rather than through whoever is offering it.",
+      "s": "Islands Business",
+      "u": "https://islandsbusiness.com/pacnews/pacnews-one-14-august-2026/"
+    },
+    {
+      "c": "Oceania",
+      "k": "Vanuatu",
+      "m": "news",
+      "a": 0,
+      "h": "Vanuatu and Timor-Leste dropped visas for each other",
+      "w": "Two small states that rarely appear in each other's news agreed people can just go. Neither needed a larger power to broker it.",
+      "s": "Islands Business",
+      "u": "https://islandsbusiness.com/pacnews/pacnews-three-12-august-2026/"
+    },
+    {
+      "c": "Oceania",
+      "k": "Fiji",
+      "m": "news",
+      "a": 1,
+      "h": "Fiji backed a united Pacific line against missile testing in the region's waters",
+      "w": "New Zealand is pushing a joint statement over China's testing. For Pacific states the ocean is not a backdrop to somebody else's strategy — it is the country.",
+      "s": "Islands Business",
+      "u": "https://islandsbusiness.com/pacnews/pacnews-two-10-august-2026/"
+    },
+    {
+      "c": "Oceania",
+      "k": "Vanuatu",
+      "m": "fun",
+      "a": 0,
+      "h": "Vanuatu turned 46 and spent the day arguing about unity",
+      "w": "Independence Day drew crowds and a round of speeches about holding the country together. A national birthday used as a political forum is its own kind of healthy.",
+      "s": "Islands Business",
+      "u": "https://islandsbusiness.com/pacnews/pacnews-one-03-august-2026/"
+    }
+  ]
+}
