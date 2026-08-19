@@ -1,36 +1,38 @@
 # Equal Earth Desk
 
-Equal Earth Desk is a single-file global news publication. It places up to ten curated dispatches from each continent on an Equal Earth map, preserving countries' true relative areas.
+[Visit the live desk](https://dopedolly.github.io/equal-earth-desk/)
 
-The publication is intentionally static: no backend, database, framework, build step, package manager, or news API is required. The live product is `index.html`, with `preview.png` providing its social link preview.
+![Equal Earth Desk preview](preview.png)
+
+Equal Earth Desk is a global news publication built around an interactive Equal Earth map. Each issue presents a concise selection of news, policy changes, and unusually revealing stories from across the world's continents while preserving countries' true relative areas.
+
+The publication is intentionally lightweight. It has no backend, database, framework, build step, paid API, or package manager. The complete public website lives in a single `index.html` file and is hosted with GitHub Pages.
 
 ## Editorial model
 
-The reader is American; America is not the center. Stories are selected for their importance where they happened, with space reserved for events that are unusually significant for a country relative to its own recent baseline.
+The reader is American; America is not the center. Stories are selected for their importance where they happened, with room for events that are unusually significant for a country relative to its own recent baseline.
 
-Read `EDITORIAL_CHARTER.md` before selecting or writing stories.
+The selection and writing rules are documented in [`EDITORIAL_CHARTER.md`](EDITORIAL_CHARTER.md).
 
 ## Updating an issue
 
-1. Open the hosted site with `#edit` appended to its URL.
-2. Copy the built-in prompt and use it with any web-enabled model.
-3. Paste the returned JSON into the editor.
-4. Run **Check & preview**.
-5. Publish only when the validator reports no hard errors and the sources have been opened and checked.
+1. Open the live site with `#edit` appended to its URL.
+2. Copy the built-in research prompt and use it with any web-enabled model.
+3. Paste the returned story JSON into the editor.
+4. Run **Check & preview** and review every source.
+5. Download the updated `index.html` and commit it to `main`.
 
-Detailed instructions are in `HANDOFF.md`. Coding agents must also read `AGENTS.md`.
+GitHub Pages publishes the updated issue automatically.
 
 ## Critical map rule
 
-Never rewrite, reformat, regenerate, or prettify `const MAP` inside `index.html`. The generated geometry is deliberately kept intact. Routine updates should change only the marked `ISSUE` and `STORIES` block.
+Never rewrite, reformat, regenerate, or prettify `const MAP` inside `index.html`. The generated geometry must remain intact. Routine issue updates should change only the marked `ISSUE` and `STORIES` block.
 
-## Files
+## Public files
 
-- `index.html`: the complete publication and issue editor.
-- `preview.png`: the 1200 by 630 link-preview image.
-- `EDITORIAL_CHARTER.md`: the editorial system prompt.
-- `HANDOFF.md`: the human publishing workflow.
-- `AGENTS.md`: constraints for coding agents.
-- `prototype.html`: an earlier preview build, not the hosted page.
+- `index.html`: the complete publication, interactive map, issue data, and editor.
+- `preview.png`: the 1200 by 630 social link-preview image.
+- `EDITORIAL_CHARTER.md`: the public editorial charter.
+- `README.md`: this project overview.
 
 A KDY Project.
