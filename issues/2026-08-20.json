@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-20",
+  "issue": "Issue 02 · 20 August 2026",
+  "stories": [
+    {
+      "c": "North America",
+      "k": "Canada",
+      "m": "policy",
+      "a": 1,
+      "h": "Canada wins a three-day reprieve from threatened 50% US tariffs",
+      "w": "A last-minute pause protected about $20bn in Canadian exports while Ottawa and Washington finish trade documents. The proposed revival of Keystone XL adds an energy-policy stake to the talks.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline"
+    },
+    {
+      "c": "Europe",
+      "k": "Ukraine",
+      "m": "policy",
+      "a": 1,
+      "h": "Ukraine's dismissed defence minister calls for a wartime presidential election",
+      "w": "Mykhailo Fedorov issued the most direct political challenge to Volodymyr Zelenskyy since Russia's full-scale invasion, arguing that democratic renewal cannot wait for the war to end.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/aug/18/ukraines-dismissed-defence-minister-calls-for-wartime-presidential-election"
+    },
+    {
+      "c": "Europe",
+      "k": "Germany",
+      "m": "news",
+      "a": 0,
+      "h": "Severe storms kill one in Germany as Balkan wildfires keep burning",
+      "w": "A tornado, widespread structural damage and power outages hit several German states while firefighters in Serbia, Croatia and Bosnia fought heat-fuelled fires.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/40f057a1faff2ad0a4428a54f95fa44c"
+    },
+    {
+      "c": "Africa",
+      "k": "Zambia",
+      "m": "policy",
+      "a": 1,
+      "h": "Hakainde Hichilema wins a second term after Zambia's troubled election",
+      "w": "The president took about 60% of the vote after counting was briefly suspended, soldiers deployed in Lusaka and opposition officials were arrested. EU observers said the wider process limited fundamental freedoms.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/562c0ee56653c8dc835af7556c913aab"
+    },
+    {
+      "c": "Asia",
+      "k": "South Korea",
+      "m": "policy",
+      "a": 1,
+      "h": "US and South Korea cut their joint military exercise six days short",
+      "w": "Seoul said the Ulchi Freedom Shield drill would end early at Washington's request. South Korean officials said they had not been warned before the US decision.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/aug/19/us-south-korea-army-drills-cut-trump-push-kim-jong-un-talks"
+    },
+    {
+      "c": "Asia",
+      "k": "Philippines",
+      "m": "news",
+      "a": 1,
+      "h": "A second fatal Philippine school shooting in two months raises pressure for action",
+      "w": "A ninth-grade student killed a classmate and himself in Zamboanga while livestreaming the attack. Investigators are tracing firearms reportedly owned by the shooter's father, a customs agent.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/aug/18/philippines-school-shooting-two-dead-zamboanga"
+    },
+    {
+      "c": "Oceania",
+      "k": "Australia",
+      "m": "policy",
+      "a": 1,
+      "h": "Australia forces Roblox to overhaul child privacy and contact controls",
+      "w": "The eSafety commissioner found that adults could still view and contact child accounts without parental consent. Roblox has three months to implement changes and submit to an independent audit.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/australia-news/2026/aug/20/roblox-esafety-commissioner-children-adults-ntwnfb"
+    },
+    {
+      "c": "Oceania",
+      "k": "Australia",
+      "m": "policy",
+      "a": 1,
+      "h": "Human review raised care funding for one in five older Australians who appealed",
+      "w": "Government data showed 141 of 757 challenges produced a better result after an algorithm set home-support funding. The system does not let assessors override the algorithm at the initial decision.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/australia-news/2026/aug/19/aged-care-support-at-home-review-ai-integrated-assessment-tool"
+    }
+  ]
+}
