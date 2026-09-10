@@ -1,0 +1,256 @@
+{
+  "date": "2026-09-10",
+  "issue": "Issue 03 · 10 September 2026",
+  "stories": [
+    {
+      "c": "North America",
+      "k": "United States of America",
+      "m": "news",
+      "a": 1,
+      "h": "Oil crosses $100 as the US-Iran war intensifies",
+      "w": "Brent and US crude pushed above $100 a barrel after new attacks threatened shipping and supply, raising fuel and transport costs across the North American economy.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/oil-prices-iran-attack-saudi-brent-crude-7538e6386a819bcdc2547d530ec3472e"
+    },
+    {
+      "c": "North America",
+      "k": "Canada",
+      "m": "policy",
+      "a": 1,
+      "h": "US-Canada trade war expands from tariffs to outright import bans",
+      "w": "Washington barred Canadian dairy products, motorcycles and most alcohol after Ottawa imposed retaliatory tariffs on about $20 billion of US goods, escalating disruption across a deeply integrated market.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/canada-trump-carney-trade-war-tariffs-4620ffb5ecc029322217207fa6758431"
+    },
+    {
+      "c": "North America",
+      "k": "United States of America",
+      "m": "policy",
+      "a": 1,
+      "h": "Trump promises $5,000 payments if Republicans retain Congress",
+      "w": "At the Republican midterm convention, the president tied an extraordinary cash pledge to continued GOP control while defending the Iran war, making both central election issues.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/trump-midterm-convention-dallas-speakers-trumpapalooza-5be7a32b6cffb5b1eaa58d982fdb3448"
+    },
+    {
+      "c": "North America",
+      "k": "United States of America",
+      "m": "news",
+      "a": 0,
+      "h": "North Carolina begins restoring 60 square kilometres of peatland",
+      "w": "Scientists and investors are rewetting damaged peat to curb carbon emissions and rebuild habitat, testing whether private finance can protect a major natural carbon store.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/climate-change-peatlands-agriculture-carbon-wildfires-b9de9dc531739e23c619610992e17c16"
+    },
+    {
+      "c": "South America",
+      "k": "Ecuador",
+      "m": "policy",
+      "a": 1,
+      "h": "Washington shifts toward joint Latin American anti-drug operations",
+      "w": "Marco Rubio said the US is seeking operations aligned with partner-country laws while preserving the option of lethal maritime strikes, after at least 230 deaths in 69 boat attacks.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/rubio-noboa-ecuador-drug-trafficking-trump-133a5eca2b8925dfc1dc0daa1266c73e"
+    },
+    {
+      "c": "South America",
+      "k": "Brazil",
+      "m": "policy",
+      "a": 1,
+      "h": "Brazil's chief justice intervenes in a damaging Supreme Court feud",
+      "w": "Chief Justice Edson Fachin suspended conflicting rulings by two rival justices, restoring the federal police chief as institutional turmoil becomes an issue before next month's presidential election.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/brazil-supreme-court-federal-police-back-068a7fd8b817d7285d9d8c114ad0eea5"
+    },
+    {
+      "c": "South America",
+      "k": "Colombia",
+      "m": "policy",
+      "a": 1,
+      "h": "Colombia's new government deepens security alignment with Washington",
+      "w": "President Abelardo de la Espriella joined the Americas Counter Cartels Coalition and expanded cooperation on drugs and migration, reversing the strained relationship under Gustavo Petro.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/rubio-trump-colombia-ecuador-peru-f3b86cc4000316c0a01e8b721e86f8d6"
+    },
+    {
+      "c": "South America",
+      "k": "Ecuador",
+      "m": "news",
+      "a": 0,
+      "h": "US forces sink another Ecuadorian vessel in the Pacific",
+      "w": "Southern Command said the vessel supported Los Choneros drug trafficking; people aboard were removed for transfer to Ecuador before the boat was destroyed.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/ecuador-us-boat-drug-trafficking-sinking-pacific-fishermen-551b40890fe249597d0236087fed019a"
+    },
+    {
+      "c": "Europe",
+      "k": "Ukraine",
+      "m": "news",
+      "a": 1,
+      "h": "Ukraine demands stronger action after another deadly Russian barrage",
+      "w": "Russian attacks again killed civilians, including at a checkpoint near Moldova, as Kyiv argued that allied pressure has not matched the escalating assault on populated areas.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/russia-ukraine-war-zelenskyy-drone-attack-6670c99dcc9ed149a2bd9c0deac455cf"
+    },
+    {
+      "c": "Europe",
+      "k": "United Kingdom",
+      "m": "news",
+      "a": 1,
+      "h": "UK air-traffic failure drives cancellations above 2,000",
+      "w": "A technical failure at Nats disrupted hundreds of thousands of passengers; the transport secretary ordered an investigation and an independent resilience review.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/sep/09/uk-flight-cancellations-nats-martin-rolfe-heidi-alexander"
+    },
+    {
+      "c": "Europe",
+      "k": "France",
+      "m": "policy",
+      "a": 0,
+      "h": "Europe weighs a major expansion of sovereign space capacity",
+      "w": "Industry leaders meeting in Paris pressed for launch and satellite investment as dependence on Starlink and US providers becomes a strategic vulnerability; the next EU budget may allocate about €60 billion.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/europe-us-space-industry-paris-summit-starlink-6f41bedb4716954239591df28b7f1f84"
+    },
+    {
+      "c": "Europe",
+      "k": "Germany",
+      "m": "policy",
+      "a": 1,
+      "h": "Merz cancels Trump call after praise for the AfD",
+      "w": "Germany's chancellor cancelled a scheduled call after Trump celebrated the far-right AfD's election result, sharpening tensions over migration, Ukraine and democratic politics.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/live/2026/sep/09/europe-ukraine-russia-zelenskyy-germany-merz-afd-norway-king-harald-v-latest-news-updates"
+    },
+    {
+      "c": "Africa",
+      "k": "Sudan",
+      "m": "news",
+      "a": 1,
+      "h": "More than a third of Sudan's health facilities are out of service",
+      "w": "MSF says aid cuts are pushing millions toward a shrinking number of clinics while 19.5 million people face crisis-level hunger and the UN response remains badly underfunded.",
+      "s": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/9/8/sudans-healthcare-system-on-brink-of-collapse-msf-warns"
+    },
+    {
+      "c": "Africa",
+      "k": "Gambia",
+      "m": "policy",
+      "a": 1,
+      "h": "Gambia declares rolling blackouts a national-security emergency",
+      "w": "After violent protests over outages lasting up to 48 hours, President Adama Barrow promised 24 megawatts of new generation by October and a future 50-megawatt solar plant.",
+      "s": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/9/9/gambian-leader-pledges-halt-to-rolling-blackouts-as-protests-turn-violent"
+    },
+    {
+      "c": "Africa",
+      "k": "Kenya",
+      "m": "policy",
+      "a": 1,
+      "h": "Kenya grants temporary amnesty to undocumented East African migrants",
+      "w": "The registration window followed an order targeting foreign-run small businesses and reports of harassment, affecting a regional community whose bloc formally guarantees freedom of movement.",
+      "s": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/9/8/kenya-offers-amnesty-for-migrants-after-burundians-rush-to-leave"
+    },
+    {
+      "c": "Africa",
+      "k": "Cameroon",
+      "m": "news",
+      "a": 1,
+      "h": "Gunmen kill a police officer and abduct five teachers in Cameroon",
+      "w": "The attack on a training centre in the anglophone Northwest came as separatists sought to disrupt the school year in a decade-long conflict that has displaced hundreds of thousands.",
+      "s": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/9/9/attackers-kill-police-officer-kidnap-teachers-in-cameroons-northwest"
+    },
+    {
+      "c": "Asia",
+      "k": "Bangladesh",
+      "m": "news",
+      "a": 1,
+      "h": "Bangladesh measles outbreak passes 1,000 child deaths",
+      "w": "Health officials reported 187,484 childhood infections and acknowledged that roughly four million children were missed by the vaccination campaign, leaving dangerous gaps in immunity.",
+      "s": "CNA",
+      "u": "https://www.channelnewsasia.com/asia/bangladesh-measles-outbreak-children-deaths-6373126"
+    },
+    {
+      "c": "Asia",
+      "k": "Indonesia",
+      "m": "news",
+      "a": 1,
+      "h": "Indonesia becomes the world's largest source of wildfire emissions",
+      "w": "Fires released an estimated 19.7 million tonnes in one week as extreme El Niño conditions drove the worst season in 11 years and hazardous air spread across Kalimantan and Sumatra.",
+      "s": "CNA",
+      "u": "https://www.channelnewsasia.com/asia/indonesia-wildfire-emissions-world-highest-6372366"
+    },
+    {
+      "c": "Asia",
+      "k": "Philippines",
+      "m": "policy",
+      "a": 1,
+      "h": "China and the Philippines trade warnings over South China Sea claims",
+      "w": "Beijing accused Manila of provoking trouble after the Philippine defence chief invoked the 2016 arbitration ruling rejecting China's sweeping claims over a crucial trade route.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/china-philippines-teodoro-note-south-china-sea-9d490192be557df2ea2284278cacd32c"
+    },
+    {
+      "c": "Asia",
+      "k": "India",
+      "m": "policy",
+      "a": 0,
+      "h": "India prepares its first uncrewed Gaganyaan orbital mission",
+      "w": "The launch targeted for late 2026 is the next step toward a crewed flight in 2027, an initial space-station module by 2028 and a longer-term independent human-spaceflight programme.",
+      "s": "CNA",
+      "u": "https://www.channelnewsasia.com/asia/india-space-ambitions-crewed-missions-space-station-6372676"
+    },
+    {
+      "c": "Asia",
+      "k": "South Korea",
+      "m": "policy",
+      "a": 1,
+      "h": "South Koreans protest possible military involvement in Hormuz",
+      "w": "Seoul sent a fact-finding mission while saying no deployment decision had been made; Iran warned that participation in US operations would bring serious consequences.",
+      "s": "CNA",
+      "u": "https://www.channelnewsasia.com/east-asia/south-korea-us-iran-war-hormuz-protesters-6372216"
+    },
+    {
+      "c": "Oceania",
+      "k": "Australia",
+      "m": "policy",
+      "a": 1,
+      "h": "Australia introduces new offences targeting illicit tobacco networks",
+      "w": "The bill lowers evidentiary barriers for prosecuting importers, distributors and retailers and expands asset-seizure powers against a black market tied to organised crime.",
+      "s": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-09-10/illicit-tobacco-prosecutions-new-laws-black-market/107135706"
+    },
+    {
+      "c": "Oceania",
+      "k": "Australia",
+      "m": "policy",
+      "a": 1,
+      "h": "Australian reading and mathematics scores fall to record lows",
+      "w": "OECD data show the decline has lasted two decades, although students remain above the OECD average; low performance has increased while school absenteeism is unusually high.",
+      "s": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-09-08/australia-records-worst-ever-reading-and-maths-results-pisa/107101504"
+    },
+    {
+      "c": "Oceania",
+      "k": "Solomon Is.",
+      "m": "policy",
+      "a": 1,
+      "h": "Australia and Solomon Islands reach an in-principle $980 million treaty",
+      "w": "The package would fund education, security and constituency projects as Canberra seeks to remain the Pacific country's preferred security partner amid strategic competition with China.",
+      "s": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-09-07/australia-strikes-agreement-with-solomon-islands-over-new-treaty/107125924"
+    },
+    {
+      "c": "Oceania",
+      "k": "Solomon Is.",
+      "m": "policy",
+      "a": 1,
+      "h": "Solomon Islands opposition alleges Australian interference over treaty talks",
+      "w": "A leaked diplomatic text sent during a leadership challenge triggered accusations that aid was being used to influence domestic politics; the deputy prime minister rejected that interpretation.",
+      "s": "ABC Pacific",
+      "u": "https://www.abc.net.au/pacific/programs/pacificbeat/sols-treaty/107131744"
+    }
+  ]
+}
