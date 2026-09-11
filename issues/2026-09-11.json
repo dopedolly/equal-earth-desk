@@ -1,0 +1,166 @@
+{
+  "date": "2026-09-11",
+  "issue": "Issue 04 · 11 September 2026",
+  "stories": [
+    {
+      "c": "North America",
+      "k": "Canada",
+      "m": "policy",
+      "a": 1,
+      "h": "Canada signals restraint after the latest US trade escalation",
+      "w": "Prime Minister Mark Carney called Washington's newest import restrictions relatively modest and indicated Ottawa may hold off on further retaliation, reducing the immediate risk of another tariff round.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/trump-canada-tariffs-ford-carney-700d1eaad7f1aa87f1d7875222691b35"
+    },
+    {
+      "c": "North America",
+      "k": "Canada",
+      "m": "policy",
+      "a": 1,
+      "h": "Canada plans a major drone-production push for Ukraine",
+      "w": "Ottawa said it will scale from roughly 2,000 military drones to millions, send a third of domestic production to Ukraine, and provide new air-defence and energy support before winter.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/russia-ukraine-war-canada-zelenskyy-2a74de6552061bda57a1c5aa4464db52"
+    },
+    {
+      "c": "North America",
+      "k": "United States of America",
+      "m": "news",
+      "a": 0,
+      "h": "The United States marks 25 years since the September 11 attacks",
+      "w": "Memorials added a new moment of silence for people who later died from illnesses linked to toxic dust, underscoring the attacks' continuing human and political consequences.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/8a027f4a0e2e3cf30a8d49786af5f506"
+    },
+    {
+      "c": "South America",
+      "k": "Brazil",
+      "m": "policy",
+      "a": 1,
+      "h": "Brazil's Supreme Court cancels sessions as its internal crisis deepens",
+      "w": "The court halted a second consecutive deliberation amid allegations involving justices, police and a failed bank, pushing an institutional dispute into the final weeks before national elections.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/brazil-supreme-court-cancels-political-crisis-346a3d9480838af5a7a5c4b7c581175c"
+    },
+    {
+      "c": "South America",
+      "k": "Ecuador",
+      "m": "policy",
+      "a": 1,
+      "h": "US terrorist designations reshape the campaign against Latin American gangs",
+      "w": "Washington's list has grown to 21 Latin American and Caribbean groups, with Ecuador's Los Tiguerones the latest addition, expanding the legal and military framework used against organized crime.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/gangs-cartels-sinaloa-aragua-trump-terrorist-organizations-dda946feb76a561e0cade793b2096a39"
+    },
+    {
+      "c": "Europe",
+      "k": "Poland",
+      "m": "news",
+      "a": 1,
+      "h": "Poland warns of more Russian provocations along Ukraine's European borders",
+      "w": "Prime Minister Donald Tusk said incidents near Polish and Moldovan crossings could foreshadow a broader campaign, while acknowledging that evidence for Russian involvement in one episode was not presented.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/poland-russia-moldova-cia-border-crossing-ukraine-b1e2a19e2a9df1e84aec722896d38cab"
+    },
+    {
+      "c": "Europe",
+      "k": "Sweden",
+      "m": "policy",
+      "a": 1,
+      "h": "Sweden votes with a far-right party closer than ever to government",
+      "w": "More than eight million voters will choose between rival blocs on Sunday, with the Sweden Democrats positioned for cabinet posts for the first time if the right retains power.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/sweden-election-parliament-kristersson-andersson-6671108eecef137f7bb9a9f545983c23"
+    },
+    {
+      "c": "Africa",
+      "k": "Congo",
+      "m": "news",
+      "a": 1,
+      "h": "Fire kills at least 24 students in rebel-held eastern Congo",
+      "w": "A blaze spread from a wooden home into two schools in densely populated Bukavu, trapping children and injuring dozens in a city controlled by the Rwanda-backed M23 movement.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/congo-fire-school-dead-students-bukavu-m23-39f8cab01e53177a118e6f4823677af7"
+    },
+    {
+      "c": "Africa",
+      "k": "Angola",
+      "m": "policy",
+      "a": 0,
+      "h": "US backs a $100 million telecom expansion in Angola",
+      "w": "The US Export-Import Bank loan will finance American and European network equipment for Africell, a direct effort to counter Huawei's dominant role in African mobile infrastructure.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/trump-huawei-africell-tech-us-china-a755a634563876d52c9738dce4e5d7f4"
+    },
+    {
+      "c": "Africa",
+      "k": "Gambia",
+      "m": "policy",
+      "a": 1,
+      "h": "Gambia promises emergency power additions after blackout protests",
+      "w": "President Adama Barrow pledged 24 megawatts of new generation by October and a 50-megawatt solar plant after outages lasting up to 48 hours triggered violent demonstrations months before an election.",
+      "s": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/9/9/gambian-leader-pledges-halt-to-rolling-blackouts-as-protests-turn-violent"
+    },
+    {
+      "c": "Asia",
+      "k": "Philippines",
+      "m": "news",
+      "a": 1,
+      "h": "Philippine ferry fire death toll rises to 35",
+      "w": "Fifty-four people remained missing after flames engulfed a passenger ferry near Palawan; rescuers recovered more bodies while investigators had yet to determine the cause.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/philippines-ferry-fire-53da1f785c386cfbd189ef1dd3017c03"
+    },
+    {
+      "c": "Asia",
+      "k": "Yemen",
+      "m": "news",
+      "a": 1,
+      "h": "Houthis seize a strategic island at the entrance to the Red Sea",
+      "w": "The capture near the Bab el-Mandeb Strait opens a new front in the Iran war and threatens the shipping route Saudi Arabia increasingly relies on as an alternative to the Strait of Hormuz.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/yemen-houthis-iran-mokha-mandeb-shipping-saudi-025d052a14d9481258d51009a76d0bd6"
+    },
+    {
+      "c": "Asia",
+      "k": "India",
+      "m": "policy",
+      "a": 1,
+      "h": "Putin and Modi meet before an 11-nation BRICS summit",
+      "w": "India and Russia discussed defence, energy and diplomacy as New Delhi hosts a bloc representing about half the world's population while balancing ties with Moscow and Western partners.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/india-russia-putin-modi-brics-summit-delhi-f7735ac233c7e8db8ac021c53a3eef8a"
+    },
+    {
+      "c": "Oceania",
+      "k": "Australia",
+      "m": "policy",
+      "a": 1,
+      "h": "Queensland loses a credit-rating notch ahead of Olympic spending",
+      "w": "S&P cut the state's long-term rating from AA+ to AA, citing weak budgets and structurally higher debt as infrastructure spending rises before the 2032 Brisbane Games.",
+      "s": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-09-11/queensland-credit-rating-downgraded/107143054"
+    },
+    {
+      "c": "Oceania",
+      "k": "Australia",
+      "m": "news",
+      "a": 1,
+      "h": "Oil shock wipes $32 billion from Australia's share market",
+      "w": "Every ASX sector finished lower as crude above $100 revived inflation and interest-rate fears, with the benchmark ending down one percent after a steeper intraday fall.",
+      "s": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-09-10/asx-markets-business-news-live-updates-thursday-10-september/107136246"
+    },
+    {
+      "c": "Oceania",
+      "k": "Australia",
+      "m": "news",
+      "a": 0,
+      "h": "Varroa mite makes a 1,000-kilometre jump into Far North Queensland",
+      "w": "Authorities confirmed Australia's northernmost detections of the destructive bee parasite and suspect human-assisted hive movement, raising risks for pollination-dependent agriculture.",
+      "s": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-09-11/northernmost-incursion-of-varroa-destructor-mite-detected/107142280"
+    }
+  ]
+}
