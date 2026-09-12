@@ -1,0 +1,136 @@
+{
+  "date": "2026-09-12",
+  "issue": "Issue 05 · 12 September 2026",
+  "stories": [
+    {
+      "c": "North America",
+      "k": "United States of America",
+      "m": "news",
+      "a": 1,
+      "h": "Record US cyclospora outbreak ends after nearly 13,000 linked cases",
+      "w": "The FDA says recalled iceberg lettuce is now off the market, but investigators still do not know how contamination spread widely enough to drive the largest outbreak recorded in the country.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/cyclospora-outbreak-iceberg-lettuce-9b2c348b2f378b7554b2abfbf1780550"
+    },
+    {
+      "c": "North America",
+      "k": "Canada",
+      "m": "policy",
+      "a": 1,
+      "h": "Canada holds back from another round of trade retaliation",
+      "w": "Prime Minister Mark Carney described Washington's newest restrictions as relatively modest and signalled restraint, easing the immediate risk of further escalation between the deeply integrated economies.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/trump-canada-tariffs-ford-carney-700d1eaad7f1aa87f1d7875222691b35"
+    },
+    {
+      "c": "South America",
+      "k": "Brazil",
+      "m": "policy",
+      "a": 1,
+      "h": "Brazil's Supreme Court crisis spills into the election campaign",
+      "w": "The court cancelled a second consecutive session amid allegations involving justices, police and a failed bank, an extraordinary institutional rupture weeks before national elections.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/brazil-supreme-court-cancels-political-crisis-346a3d9480838af5a7a5c4b7c581175c"
+    },
+    {
+      "c": "South America",
+      "k": "Ecuador",
+      "m": "policy",
+      "a": 1,
+      "h": "US terrorist list for Latin American criminal groups grows to 21",
+      "w": "The latest designation of Ecuador's Los Tiguerones expands a framework Washington has used to justify joint operations and lethal strikes against organizations traditionally treated as criminal gangs.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/gangs-cartels-sinaloa-aragua-trump-terrorist-organizations-dda946feb76a561e0cade793b2096a39"
+    },
+    {
+      "c": "Europe",
+      "k": "Ukraine",
+      "m": "news",
+      "a": 1,
+      "h": "Russia and Ukraine intensify long-range attacks on cities and energy sites",
+      "w": "Russian strikes killed five people near shopping centres and wounded dozens, while Ukraine launched a 777-drone barrage that hit Russian logistics and refining targets, according to officials on both sides.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/russia-ukraine-war-gas-stations-drones-090b61e66dbde88598a1b1bfe42ad85d"
+    },
+    {
+      "c": "Europe",
+      "k": "Sweden",
+      "m": "policy",
+      "a": 1,
+      "h": "Sweden approaches an election that could put the far right in cabinet",
+      "w": "More than eight million voters choose between rival blocs on Sunday, with the Sweden Democrats positioned to enter government for the first time if the right retains power.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/sweden-election-parliament-kristersson-andersson-6671108eecef137f7bb9a9f545983c23"
+    },
+    {
+      "c": "Africa",
+      "k": "Congo",
+      "m": "news",
+      "a": 1,
+      "h": "Congo's deadliest Ebola outbreak reaches a seventh province",
+      "w": "A laboratory-confirmed case appeared in South-Ubangi after the patient travelled across several provinces; 38 contacts are quarantined as the national toll reaches 3,349 deaths.",
+      "s": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/9/11/ebola-case-detected-in-seventh-dr-congo-province"
+    },
+    {
+      "c": "Africa",
+      "k": "Nigeria",
+      "m": "policy",
+      "a": 1,
+      "h": "Nigeria suspends parliamentary visits to South Africa over anti-migrant violence",
+      "w": "The National Assembly halted official engagements indefinitely after attacks forced thousands of African migrants from South Africa and sharpened diplomatic tensions across the continent.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/nigeria-south-africa-migrants-protests-523e32cb4f0574e2e00b8345460b1c02"
+    },
+    {
+      "c": "Asia",
+      "k": "India",
+      "m": "policy",
+      "a": 1,
+      "h": "BRICS leaders meet as wars and rivalry test the expanded bloc",
+      "w": "Leaders representing 11 countries and roughly half the world's population gathered in New Delhi to discuss trade, energy, supply chains and alternatives to Western-dominated financial systems.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/india-brics-modi-russia-china-iran-wars-5393274f87a16461b195d13f324e747a"
+    },
+    {
+      "c": "Asia",
+      "k": "China",
+      "m": "policy",
+      "a": 1,
+      "h": "Hong Kong jails two Tiananmen vigil leaders for seven years",
+      "w": "Lee Cheuk-yan and Chow Hang-tung were sentenced for inciting subversion, extending the national-security crackdown that ended the city's once-legal public commemorations of 1989.",
+      "s": "CNA",
+      "u": "https://www.channelnewsasia.com/east-asia/hong-kong-court-jails-tiananmen-vigil-group-leaders-6378281"
+    },
+    {
+      "c": "Asia",
+      "k": "Indonesia",
+      "m": "news",
+      "a": 1,
+      "h": "Indonesia's wildfire-related respiratory cases more than double in eight days",
+      "w": "Health ministry figures rose from 50,891 to 113,336 as haze exposed more than 12.5 million people across seven provinces during the country's worst fire season in 11 years.",
+      "s": "CNA",
+      "u": "https://www.channelnewsasia.com/asia/indonesia-wildfires-respiratory-infection-health-ministry-6375906"
+    },
+    {
+      "c": "Oceania",
+      "k": "Australia",
+      "m": "policy",
+      "a": 1,
+      "h": "Queensland loses a credit-rating notch as infrastructure debt rises",
+      "w": "S&P cut the state's long-term rating from AA+ to AA, citing weak budgets and structurally higher debt as major spending accelerates before the 2032 Brisbane Olympics.",
+      "s": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-09-11/queensland-credit-rating-downgraded/107143054"
+    },
+    {
+      "c": "Oceania",
+      "k": "Australia",
+      "m": "news",
+      "a": 1,
+      "h": "Varroa mite makes a 1,000-kilometre jump into Far North Queensland",
+      "w": "Biosecurity officials confirmed Australia's northernmost detections of the destructive bee parasite and suspect human-assisted hive movement, raising risks for pollination-dependent agriculture.",
+      "s": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-09-11/northernmost-incursion-of-varroa-destructor-mite-detected/107142280"
+    }
+  ]
+}
