@@ -1,0 +1,106 @@
+{
+  "date": "2026-09-13",
+  "issue": "Issue 06 · 13 September 2026",
+  "stories": [
+    {
+      "c": "North America",
+      "k": "Canada",
+      "m": "policy",
+      "a": 1,
+      "h": "US-Canada trade war puts North America's core economic pact at risk",
+      "w": "President Trump said he was considering leaving the USMCA after negotiations collapsed, raising the stakes for two economies linked by energy, agriculture and the world's largest bilateral goods market.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/canada-us-tariffs-trade-import-a3aad867b1b6822675fdc0654318e9a9"
+    },
+    {
+      "c": "South America",
+      "k": "Peru",
+      "m": "policy",
+      "a": 1,
+      "h": "Washington pledges no unilateral anti-drug action inside Latin American allies",
+      "w": "Secretary of State Marco Rubio made the commitment in Lima while the United States continues deadly strikes on alleged drug boats, clarifying a consequential boundary in its expanding regional security campaign.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/rubio-peru-drug-trafficking-trump-b625fe79a901799707343ff5dd83b5f4"
+    },
+    {
+      "c": "Europe",
+      "k": "Ukraine",
+      "m": "news",
+      "a": 1,
+      "h": "Russian strikes kill eight as Putin warns Europe against deploying troops",
+      "w": "The attacks wounded dozens and hit homes across several Ukrainian regions while the Russian president said a European deployment would mean war with Russia, escalating both military and diplomatic risk.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/russia-ukraine-war-putin-europe-839f5b0fc5217afc4cb34e15b01b6eff"
+    },
+    {
+      "c": "Europe",
+      "k": "Germany",
+      "m": "policy",
+      "a": 1,
+      "h": "Ukrainian troops embed with the US Army to transfer drone-war lessons",
+      "w": "About a dozen Ukrainian personnel advised American exercises in Germany as the US Army debates how to restructure ground forces around technology now central to modern battlefields.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/drones-ukraine-russia-war-army-military-strategy-e5e754608f13831463e42cb7f8346369"
+    },
+    {
+      "c": "Africa",
+      "k": "Congo",
+      "m": "news",
+      "a": 1,
+      "h": "Congo's record Ebola outbreak spreads west to a seventh province",
+      "w": "A confirmed case in South-Ubangi marks a major geographic jump from the eastern epicentre; national authorities reported more than 7,000 cases and nearly 3,400 deaths as response teams face conflict and displacement.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/congo-ebola-africa-spread-ituri-58a2b25c752eaa8344ff16564a8e3547"
+    },
+    {
+      "c": "Africa",
+      "k": "Nigeria",
+      "m": "news",
+      "a": 1,
+      "h": "Two Nigerians killed in South Africa as anti-migrant tensions deepen",
+      "w": "Nigeria says one victim died after police interrogation and another at home, adding pressure to a dispute that has already halted parliamentary visits and forced thousands of migrants to leave.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/nigeria-south-africa-killings-immigration-e6c0b25aa9ac584970cf7a1ef7cb80c0"
+    },
+    {
+      "c": "Asia",
+      "k": "India",
+      "m": "policy",
+      "a": 1,
+      "h": "BRICS condemns unilateral sanctions while wars test the expanded bloc",
+      "w": "Leaders of a group representing about half the world's population challenged Western-led pressure tools and voiced concern over Middle East attacks, even as members remained divided over Ukraine and Iran.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/india-brics-modi-russia-china-iran-wars-5393274f87a16461b195d13f324e747a"
+    },
+    {
+      "c": "Asia",
+      "k": "India",
+      "m": "policy",
+      "a": 1,
+      "h": "Modi and Xi seek a cautious reset after years of border tension",
+      "w": "The leaders pledged wider exchanges and work toward a boundary settlement during Xi's first visit to India since 2019, a potentially durable shift between Asia's two largest countries.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/india-china-brics-e51a7eb70cfb3c79c978fbf9cc9cbed5"
+    },
+    {
+      "c": "Oceania",
+      "k": "Australia",
+      "m": "policy",
+      "a": 1,
+      "h": "Tasmania proposes halving face-to-face service hours in remote communities",
+      "w": "Five regional centres could lose up to half their in-person hours, testing whether a government shift toward digital delivery can avoid excluding older residents and island communities with unreliable access.",
+      "s": "ABC News Australia",
+      "u": "https://www.abc.net.au/news/2026-09-12/service-tasmania-regional-stores-opening-hours-reduction/107146698"
+    },
+    {
+      "c": "Oceania",
+      "k": "Australia",
+      "m": "news",
+      "a": 1,
+      "h": "Floating wetland cuts wastewater-lagoon emissions by about 30%",
+      "w": "A two-year full-scale trial found large reductions in carbon dioxide and methane using a retrofit of native plants, offering a low-infrastructure climate option now moving to broader tests.",
+      "s": "ABC News Australia",
+      "u": "https://www.abc.net.au/news/2026-09-12/floating-wetlands-slash-wastewater-greenhouse-gas-emissions/107075464"
+    }
+  ]
+}
