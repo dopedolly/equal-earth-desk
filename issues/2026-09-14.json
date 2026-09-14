@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-14",
+  "issue": "Issue 07 · 14 September 2026",
+  "stories": [
+    {
+      "c": "North America",
+      "k": "Canada",
+      "m": "policy",
+      "a": 1,
+      "h": "Canada courts $120 trillion in global capital to reduce US dependence",
+      "w": "Prime Minister Mark Carney is pitching energy, critical minerals and trade access to 300 senior investors as Washington tries to pull factories and investment south.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/canada-carney-investment-summit-toronto-trump-41a910eb2f0b6ddad5112e48746597e3"
+    },
+    {
+      "c": "North America",
+      "k": "United States of America",
+      "m": "policy",
+      "a": 1,
+      "h": "Trump downplays AI guardrails in race with China",
+      "w": "The president said winning the technology contest would help manage its risks while offering no specific regulatory framework, sharpening the direction of US policy on a system with economy-wide consequences.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/trump-artificial-intelligence-guardrails-china-midterms-congress-9df0ebb4c1b0619aa0f88057b5a1092d"
+    },
+    {
+      "c": "Europe",
+      "k": "Ukraine",
+      "m": "policy",
+      "a": 1,
+      "h": "Trump asks Ukraine to stop striking Russian diesel infrastructure",
+      "w": "The request links Kyiv's campaign against Russian refining capacity to record US diesel prices and a wider shortage intensified by restricted Gulf exports, inserting energy pressure into wartime diplomacy.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/russia-ukraine-war-drones-odesa-refinery-border-crossing-17bb6a0401abc3eaa7d4586150a41d7d"
+    },
+    {
+      "c": "Africa",
+      "k": "Congo",
+      "m": "news",
+      "a": 1,
+      "h": "Congo's record Ebola outbreak remains uncontrolled after reaching a seventh province",
+      "w": "The westward jump to South-Ubangi widens the response challenge beyond the eastern epicentre as official totals pass 7,000 cases and approach 3,400 deaths amid conflict and displacement.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/congo-ebola-africa-spread-ituri-58a2b25c752eaa8344ff16564a8e3547"
+    },
+    {
+      "c": "Africa",
+      "k": "Nigeria",
+      "m": "news",
+      "a": 1,
+      "h": "Killings deepen Nigeria-South Africa dispute over migrant safety",
+      "w": "Nigeria says two more nationals were killed, one after alleged police interrogation, as anti-migrant violence forces thousands from South Africa and strains relations across the continent.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/nigeria-south-africa-killings-immigration-e6c0b25aa9ac584970cf7a1ef7cb80c0"
+    },
+    {
+      "c": "Asia",
+      "k": "Yemen",
+      "m": "news",
+      "a": 1,
+      "h": "Yemen fighting intensifies around a vital Red Sea shipping corridor",
+      "w": "Houthi gains near Bab el-Mandeb, renewed attacks on Saudi Arabia and more than 82,000 newly displaced people threaten another full civil war while adding pressure to global energy routes.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/yemen-houthis-saudi-shipping-mandeb-90dc86201ef51410ebcdd913837d741d"
+    },
+    {
+      "c": "Asia",
+      "k": "India",
+      "m": "policy",
+      "a": 1,
+      "h": "BRICS agrees on an infectious-disease warning system and deeper payment links",
+      "w": "The expanded bloc, representing about half the world's population, closed its summit with commitments spanning outbreak preparedness, local-currency trade and cross-border payments despite internal geopolitical tensions.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/india-brics-modi-russia-china-iran-wars-72e4329da3bc30ab7b231b2d11aae375"
+    },
+    {
+      "c": "Oceania",
+      "k": "Vanuatu",
+      "m": "news",
+      "a": 1,
+      "h": "More than 30 missing after Vanuatu inter-island ferry sinks",
+      "w": "Fifteen people were rescued and one death confirmed after a 45-person ferry went down in rough seas, exposing the difficulty of mounting rapid search operations across a dispersed island nation.",
+      "s": "ABC News Australia",
+      "u": "https://www.abc.net.au/news/2026-09-12/passenger-and-crew-missing-after-ferry-sinks-near-vanuatu/107147060"
+    }
+  ]
+}
