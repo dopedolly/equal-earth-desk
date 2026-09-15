@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-15",
+  "issue": "Issue 08 · 15 September 2026",
+  "stories": [
+    {
+      "c": "North America",
+      "k": "United States of America",
+      "m": "policy",
+      "a": 1,
+      "h": "Supreme Court blocks Trump's mail-ballot restrictions before the midterms",
+      "w": "The emergency decision preserves states' established systems while voting is underway; mail ballots account for nearly one-third of votes, making the ruling immediately consequential for election access.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/trump-mail-voting-executive-order-lawsuit-78a4fbeb48d9c5fd27d1c865529fc65f"
+    },
+    {
+      "c": "North America",
+      "k": "Canada",
+      "m": "policy",
+      "a": 1,
+      "h": "Canada seeks deeper EU ties as its US trade relationship deteriorates",
+      "w": "Ottawa is exploring easier work and study access alongside investment and security cooperation, part of a broader effort to reduce dependence on a US market that takes roughly 70% of Canadian exports.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/carney-canada-europe-eu-trump-d61c6de20240cd0da6c6f330ef1cba8d"
+    },
+    {
+      "c": "Europe",
+      "k": "Ukraine",
+      "m": "policy",
+      "a": 1,
+      "h": "Ukraine offers reciprocal halt to strikes on critical infrastructure",
+      "w": "President Zelenskyy said Kyiv would pause attacks inside Russia if allies secure a genuine Russian commitment, a possible de-escalation step that remains unconfirmed by Moscow after earlier ceasefires collapsed.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/russia-ukraine-war-poland-nato-drones-dbba56f09562f337aa731f7d4bbd1235"
+    },
+    {
+      "c": "Europe",
+      "k": "Finland",
+      "m": "policy",
+      "a": 1,
+      "h": "European leaders elevate the Arctic as a security and economic priority",
+      "w": "Nordic, Baltic and EU leaders called for concrete action as thawing routes, resource competition and Russia's military buildup turn the high north into a central arena of great-power rivalry.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/merz-tusk-arctic-leyen-trump-russia-china-2c298545771b20a9bc9a398bee282bb7"
+    },
+    {
+      "c": "Africa",
+      "k": "South Africa",
+      "m": "news",
+      "a": 1,
+      "h": "Two major South African road crashes kill at least 29 people",
+      "w": "A three-vehicle collision involving minibus taxis killed 21 in the Western Cape, while a separate crash killed eight, underscoring a public-transport safety problem affecting millions of commuters.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/south-africa-road-crash-21-killed-9ae8e6beeb75cc307be24e15e9ec1fad"
+    },
+    {
+      "c": "Asia",
+      "k": "Saudi Arabia",
+      "m": "news",
+      "a": 1,
+      "h": "Saudi pipeline outage removes a major bypass around the Strait of Hormuz",
+      "w": "A drone-damaged route carrying an estimated 2.6 million to 4 million barrels per day could remain offline for weeks, forcing a costly reallocation of crude flows as Brent rises above $100.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/yemen-houthis-saudi-shipping-mandeb-8c18d82c109a8ea91347ce53c0096c53"
+    },
+    {
+      "c": "Asia",
+      "k": "Japan",
+      "m": "policy",
+      "a": 1,
+      "h": "Japanese utility withdraws reactor restart bids over manipulated seismic data",
+      "w": "Chubu Electric's top two executives will resign after an outside investigation found years of improper earthquake-risk submissions for two Hamaoka reactors, disrupting Japan's accelerated nuclear restart policy.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/japan-nuclear-energy-chubu-reactor-earthquake-data-07450c45bc25574f790daba0dd48bb82"
+    },
+    {
+      "c": "Oceania",
+      "k": "Australia",
+      "m": "policy",
+      "a": 1,
+      "h": "Australia keeps fuel-excise relief in reserve as oil prices surge",
+      "w": "The government says it will not react to every daily price move, but has not fully closed the door on another cut as Middle East supply disruption raises household costs and complicates inflation policy.",
+      "s": "ABC News Australia",
+      "u": "https://www.abc.net.au/news/2026-09-14/will-the-government-reinstate-a-fuel-excise-/107152256"
+    }
+  ]
+}
