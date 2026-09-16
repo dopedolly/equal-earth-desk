@@ -1,0 +1,106 @@
+{
+  "date": "2026-09-16",
+  "issue": "Issue 09 · 16 September 2026",
+  "stories": [
+    {
+      "c": "North America",
+      "k": "United States of America",
+      "m": "policy",
+      "a": 1,
+      "h": "US redirects $52 million in military aid toward Latin America",
+      "w": "The State Department is moving financing from Europe and the Middle East to Colombia, Ecuador, Peru and Panama, a concrete shift toward the administration's Western Hemisphere security priorities.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/foreign-military-financing-trump-rubio-c92157ab38b809a9faef9fa19be50cf7"
+    },
+    {
+      "c": "North America",
+      "k": "Canada",
+      "m": "policy",
+      "a": 1,
+      "h": "Canada expands investment tax breaks as the US trade war drags on",
+      "w": "A package including immediate write-offs above 65% and a projected 6.4% effective marginal tax rate is designed to accelerate private investment while Ottawa waits for better conditions in talks with Washington.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/carney-trump-canada-investment-summit-2a3858e806b7da77dc744382d96228e7"
+    },
+    {
+      "c": "North America",
+      "k": "United States of America",
+      "m": "policy",
+      "a": 1,
+      "h": "Senate stalls cryptocurrency rules over presidential ethics safeguards",
+      "w": "A 49-50 vote leaves the $2.3 trillion crypto market without a long-sought federal framework as senators dispute whether the bill adequately addresses conflicts tied to President Trump's digital-asset interests.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/senate-crypto-bill-midterms-trump-ethics-e3caf262dc138147941787299e5f0a66"
+    },
+    {
+      "c": "South America",
+      "k": "Brazil",
+      "m": "policy",
+      "a": 1,
+      "h": "Brazil's Supreme Court postpones an explosive justice inquiry until after the election",
+      "w": "Delaying the case against Justice Alexandre de Moraes removes an institutional flashpoint from an already close presidential campaign, but leaves unresolved allegations that could reshape trust in the court.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/brazil-supreme-court-investigation-de-moraes-election-198cff6182a44a2cddc93bde8e20a9bf"
+    },
+    {
+      "c": "Europe",
+      "k": "Lithuania",
+      "m": "news",
+      "a": 1,
+      "h": "NATO jets shoot down a drone over Lithuania for the first time",
+      "w": "The unprecedented interception raises the stakes for Baltic air defense; investigators have not established the drone's origin, while officials say it was likely carrying explosives.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/russia-ukraine-war-lithuania-drone-downed-nato-9671662649ebed2eca41879982f366ad"
+    },
+    {
+      "c": "Africa",
+      "k": "Congo",
+      "m": "policy",
+      "a": 1,
+      "h": "Congo police disperse protests over a possible third-term pathway",
+      "w": "Proposed constitutional changes could alter the rules around presidential tenure before the next election, making the dispute a test of term limits and political stability in one of Africa's largest countries.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/congo-protests-tshisekedi-constitution-riot-clashes-722684d7da7ffe1d49c44dd03db82904"
+    },
+    {
+      "c": "Africa",
+      "k": "Nigeria",
+      "m": "news",
+      "a": 1,
+      "h": "Nigeria shuts an industrial meth lab tied to a transnational network",
+      "w": "Authorities say the site was the second large-scale laboratory uncovered this year and involved a Mexican national, evidence that West Africa is becoming a manufacturing hub as well as a trafficking route.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/nigeria-drugs-raid-meth-mexican-cartel-d5ba984a98c27fba6c9694b12b9acfd8"
+    },
+    {
+      "c": "Asia",
+      "k": "Iran",
+      "m": "news",
+      "a": 1,
+      "h": "US and Iran give conflicting accounts of a deadly sea-drone confrontation",
+      "w": "Washington says Iranian boats tried to seize an American unmanned vessel; Iranian media say fishing boats were attacked and crews are missing, adding another dangerous point of dispute to the regional conflict.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/iran-war-military-drone-boats-98b49e9a5e10452ae8da42191205ab53"
+    },
+    {
+      "c": "Asia",
+      "k": "Saudi Arabia",
+      "m": "policy",
+      "a": 1,
+      "h": "Saudi Arabia seeks Egyptian backing as Houthi attacks threaten Red Sea oil routes",
+      "w": "The talks link Egyptian maritime security to Saudi energy exports after attacks and a pipeline shutdown narrowed alternatives to the Strait of Hormuz, with consequences for shipping and oil markets.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/saudi-arabia-egypt-houthis-red-sea-oil-pipeline-5696629010c86b8cc83f69cbd093e3f1"
+    },
+    {
+      "c": "Oceania",
+      "k": "Australia",
+      "m": "policy",
+      "a": 1,
+      "h": "Hospital takeover could restore Northern Territory maternity care",
+      "w": "Calvary's acquisition of 14 Healthscope hospitals may reopen private maternity services in Darwin, but regulatory approvals and acute workforce shortages will determine whether the access gap actually closes.",
+      "s": "ABC News Australia",
+      "u": "https://www.abc.net.au/news/2026-09-15/calvary-takeover-darwin-private-hospital-nt-maternity-services/107154274"
+    }
+  ]
+}
