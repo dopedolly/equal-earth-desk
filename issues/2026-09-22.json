@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-22",
+  "issue": "Issue 12 · 22 September 2026",
+  "stories": [
+    {
+      "c": "Africa",
+      "k": "Democratic Republic of the Congo",
+      "m": "policy",
+      "a": 1,
+      "h": "Congo begins frontline Ebola vaccination campaign",
+      "w": "Health authorities launched a 20,000-person campaign for health and frontline workers in Bunia and Mongbwalu as the Bundibugyo-virus outbreak reached 7,541 confirmed cases and 3,639 deaths; WHO says the vaccine is being studied because no licensed vaccine yet targets this strain.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/ebola-vaccine-congo-bundibugyo-ervebo-3f28becb36c401084cb3b19183edb940"
+    },
+    {
+      "c": "Europe",
+      "k": "Germany",
+      "m": "policy",
+      "a": 1,
+      "h": "German election defeats put Merz's reform agenda under pressure",
+      "w": "The CDU fell below the 5% threshold in Mecklenburg-Western Pomerania, its first ejection from a state legislature in modern Germany, while dropping behind the Left Party in Berlin, weakening Chancellor Friedrich Merz as he pursues pension and healthcare reforms.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/germany-elections-chancellor-merz-reform-f8cae1d2218962a0200ab26186053028"
+    },
+    {
+      "c": "North America",
+      "k": "United States of America",
+      "m": "policy",
+      "a": 1,
+      "h": "Climate Week puts AI's energy demand at the center of global talks",
+      "w": "Leaders opened Climate Week in New York as a new scientific assessment found seven of nine planetary boundaries breached and the UN climate chief warned that data centers are driving fossil-fuel demand and household energy costs, sharpening pressure for faster renewable deployment.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/climate-change-un-fuel-ai-renewables-f3208930e39c7d233bdc24315065dcd2"
+    }
+  ]
+}
