@@ -1,0 +1,46 @@
+{
+  "date": "2026-09-23",
+  "issue": "Issue 13 · 23 September 2026",
+  "stories": [
+    {
+      "c": "North America",
+      "k": "United States of America",
+      "m": "policy",
+      "a": 1,
+      "h": "States sue over $1.4 billion offshore-wind cancellations",
+      "w": "New York led seven other states and California filed a parallel case challenging federal deals that would pay developers $1.4 billion to abandon four offshore-wind leases and redirect capital toward fossil-fuel projects, escalating the legal fight over US energy policy.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/trump-offshore-wind-energy-fossil-fuels-e757e0492d91ac0dbb0d5992175a869a"
+    },
+    {
+      "c": "Europe",
+      "k": "Ukraine",
+      "m": "news",
+      "a": 1,
+      "h": "Russia and Ukraine escalate long-range strikes before UN diplomacy",
+      "w": "Russian missiles and drones killed five people across Ukraine while Kyiv reported fresh attacks on Russian oil refineries, intensifying pressure around Zelenskyy's meeting with Trump and the unresolved request for additional Patriot air-defense systems.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/russia-ukraine-united-nations-zelenskyy-trump-us-9c3d38e7e97132884f915e157dbf9ef1"
+    },
+    {
+      "c": "Asia",
+      "k": "Indonesia",
+      "m": "news",
+      "a": 1,
+      "h": "Extreme El Niño raises the risk of an Asian food-price shock",
+      "w": "A strengthening El Niño is already depleting reservoirs, fueling Indonesian wildfires and disrupting fisheries and farming across Southeast Asia; NOAA sees a greater than 90% chance of a very strong event, while the World Food Program projects 49 million more people could face acute food insecurity by 2027.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/asia-el-nino-drought-rice-palm-oil-31c88df9ce8f67bcbfe3ea7f39431d57"
+    },
+    {
+      "c": "Oceania",
+      "k": "Australia",
+      "m": "news",
+      "a": 1,
+      "h": "Wind and solar briefly supply 80% of Australia's main grid",
+      "w": "Renewables met a record 80.4% of demand on Australia's National Electricity Market for a half-hour, with rooftop solar alone supplying more than half, demonstrating rapid transition progress while the annual renewable share remains 44% and investment still trails the 2030 target.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/environment/2026/sep/22/solar-and-wind-generation-record-80-percent-australia-national-grid"
+    }
+  ]
+}
