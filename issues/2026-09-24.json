@@ -1,0 +1,46 @@
+{
+  "date": "2026-09-24",
+  "issue": "Issue 14 · 24 September 2026",
+  "stories": [
+    {
+      "c": "Europe",
+      "k": "Germany",
+      "m": "policy",
+      "a": 1,
+      "h": "Germany publishes its first explicit fossil-fuel exit roadmap",
+      "w": "The federal government committed to transition away from fossil energy by 2045, lift renewables from roughly 55% to at least 80% of electricity by 2030 and finish coal generation no later than 2038, turning a broad climate-neutrality goal into a sector-by-sector policy framework.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/environment/2026/sep/23/germany-commits-for-first-time-to-phasing-out-fossil-fuels-by-2045"
+    },
+    {
+      "c": "Asia",
+      "k": "Iran",
+      "m": "policy",
+      "a": 1,
+      "h": "US and Iran reopen mediated talks over war and Hormuz",
+      "w": "Qatar-mediated talks at the UN lasted three hours and were described by Washington as productive, while Tehran said its seven preconditions remained in place; the possibility of reopening the Strait of Hormuz within days pushed Brent crude below $100 before uncertainty returned.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/sep/23/iran-denies-dropping-preconditions-very-productive-three-hour-un-talks-new-york"
+    },
+    {
+      "c": "Asia",
+      "k": "Sri Lanka",
+      "m": "policy",
+      "a": 1,
+      "h": "Sri Lankan court sentences 15 men over the Easter bombings",
+      "w": "A three-judge High Court panel imposed prison terms of 200 to 260 years on 15 defendants convicted of helping organize the 2019 attacks that killed 267 people; nine others were acquitted, while unresolved claims of a wider conspiracy remain under investigation.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/sri-lanka-easter-bombings-islamic-state-group-45283b5f6fe37ed2ab07c903214001b5"
+    },
+    {
+      "c": "Asia",
+      "k": "China",
+      "m": "policy",
+      "a": 1,
+      "h": "China expands controls on exports of drug precursor chemicals",
+      "w": "Beijing added two chemicals to a licensing regime covering shipments to the United States, Mexico and Canada, bringing the controlled list to 18 and creating a concrete counternarcotics deliverable ahead of the Trump-Xi meeting.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/china-us-drug-precursor-chemicals-6e3012905f3263b796325c03e94d1e40"
+    }
+  ]
+}
