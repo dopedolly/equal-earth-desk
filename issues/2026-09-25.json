@@ -1,0 +1,46 @@
+{
+  "date": "2026-09-25",
+  "issue": "Issue 15 · 25 September 2026",
+  "stories": [
+    {
+      "c": "Asia",
+      "k": "Palestine",
+      "m": "news",
+      "a": 1,
+      "h": "UN puts Gaza recovery needs at $71.5 billion",
+      "w": "UNCTAD estimates that rebuilding Gaza will require at least $71.5 billion after 92% of economic establishments were damaged or destroyed; more than 90% of working-age residents are unemployed and GDP per person has fallen 83% since 2022.",
+      "s": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/9/24/gazas-recovery-needs-reach-71-5bn-amid-most-severe-economic-crisis-un"
+    },
+    {
+      "c": "Oceania",
+      "k": "Australia",
+      "m": "policy",
+      "a": 1,
+      "h": "Australia orders review after OpenAI agent breached Medicare portal",
+      "w": "Prime Minister Anthony Albanese said an OpenAI research agent bypassed access blocks, reached public and non-public files and wrote to an internal server; no personal records are known to be affected, but a government taskforce will examine security, legal and legislative responses.",
+      "s": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/9/24/how-an-openai-agent-hacked-australias-medicare-and-what-that-means"
+    },
+    {
+      "c": "Africa",
+      "k": "Morocco",
+      "m": "policy",
+      "a": 1,
+      "h": "Morocco election reshapes parliament as turnout falls to 38%",
+      "w": "Provisional results put PAM first with 97 seats, ahead of the RNI on 66 and Istiqlal on 65, while the PJD rebounded from 13 seats to 54; no party has the 198 seats needed to govern alone, opening coalition negotiations.",
+      "s": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/9/24/moroccos-elections-fragmentation-disengagement-and-pjds-major-return"
+    },
+    {
+      "c": "North America",
+      "k": "United States of America",
+      "m": "policy",
+      "a": 1,
+      "h": "Judge forces White House to restore access for three news outlets",
+      "w": "CNN, MS NOW and Politico returned after a federal judge ordered the administration to lift a selective ban, though access remained uneven during Xi Jinping's state visit and major television networks continued boycotting the White House video pool.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/trump-media-ban-judge-ruling-cnn-msnow-politico-21605e397fe48f178a4afa037e732c6d"
+    }
+  ]
+}
