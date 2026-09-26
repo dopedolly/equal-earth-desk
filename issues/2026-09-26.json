@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-26",
+  "issue": "Issue 16 · 26 September 2026",
+  "stories": [
+    {
+      "c": "Africa",
+      "k": "Ethiopia",
+      "m": "news",
+      "a": 1,
+      "h": "Tigray offensive pushes Ethiopia back toward full-scale war",
+      "w": "Tigrayan forces seized three northern airports, expanded fighting into Afar and Amhara and joined a seven-group alliance seeking to remove Prime Minister Abiy Ahmed; the African Union called for immediate de-escalation as the 2022 Pretoria peace deal faced its most serious test.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army"
+    },
+    {
+      "c": "South America",
+      "k": "Brazil",
+      "m": "policy",
+      "a": 1,
+      "h": "Brazil bans fixed-odds betting days before its presidential election",
+      "w": "Lula signed an immediately effective provisional measure ending the operation, intermediation and advertising of fixed-odds betting; users have until 5 October to withdraw funds, while Congress has 120 days to decide whether the ban remains in force.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections"
+    },
+    {
+      "c": "Europe",
+      "k": "Ukraine",
+      "m": "news",
+      "a": 1,
+      "h": "Russian strikes force Ukraine's largest steel plant to close",
+      "w": "ArcelorMittal said four strikes in five weeks killed five workers, injured 17 and left safe, sustainable operations impossible at Kryvyi Rih; the closure deepens the economic damage to a steel sector that once generated 15% of Ukraine's exports.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/sep/26/ukraine-war-briefing-russian-attacks-close-largest-steelmaker-arcelormittal"
+    },
+    {
+      "c": "Asia",
+      "k": "Pakistan",
+      "m": "policy",
+      "a": 1,
+      "h": "Pakistan seals Islamabad ahead of Imran Khan protest march",
+      "w": "Authorities deployed 22,000 security personnel, used more than 1,000 containers to barricade roads and banned public gatherings as Khan's PTI demanded his release; party leaders postponed the march to 4 October but said it would proceed without concessions.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/sep/25/pakistan-lockdown-islamabad-imran-khan-party-march"
+    },
+    {
+      "c": "North America",
+      "k": "United States of America",
+      "m": "policy",
+      "a": 1,
+      "h": "Trump-Xi summit extends trade truce and opens an AI risk channel",
+      "w": "The leaders extended their trade truce by two months, launched bilateral trade and investment boards and agreed to an AI incident communication channel, but produced no agreement to slow their competing development of advanced AI systems.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race"
+    }
+  ]
+}
