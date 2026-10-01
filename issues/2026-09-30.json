@@ -1,0 +1,96 @@
+{
+  "date": "2026-09-30",
+  "issue": "Issue 18 · 30 September 2026",
+  "stories": [
+    {
+      "c": "Africa",
+      "k": "Dem. Rep. Congo",
+      "m": "news",
+      "a": 1,
+      "h": "Congolese politician killed after warning listeners about Ebola",
+      "w": "Marie-Celestin Karondwa, a senior ruling-party official in the outbreak hotspot of Butembo, was beaten to death after a radio appearance promoting Ebola prevention. The killing follows attacks on health workers as the outbreak reaches 8,067 recorded infections and 3,901 deaths.",
+      "s": "Reuters via The Guardian",
+      "u": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola"
+    },
+    {
+      "c": "Asia",
+      "k": "Iran",
+      "m": "news",
+      "a": 1,
+      "h": "Iran says it has received Washington's formal response to its war-ending proposal",
+      "w": "Iranian officials said Foreign Minister Abbas Araghchi delivered an official US response to President Masoud Pezeshkian after indirect talks around the UN General Assembly. Tehran did not disclose the terms, leaving the fate of its Strait of Hormuz and nuclear-talks proposal unresolved.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/iran-war-hormuz-trump-proposal-2c42d71d8a4be3443147cd65a6ee9193"
+    },
+    {
+      "c": "Asia",
+      "k": "Malaysia",
+      "m": "policy",
+      "a": 1,
+      "h": "Malaysia starts returning Myanmar nationals despite UN warnings",
+      "w": "Malaysia began repatriating about 1,500 people from detention centres and plans to return 5,000 in total. The UN rights chief challenged whether the process could be genuinely voluntary and warned that returnees face persecution, conscription and conflict in Myanmar.",
+      "s": "AFP via The Guardian",
+      "u": "https://www.theguardian.com/world/2026/sep/30/malaysia-begins-myanmar-repatriations-despite-warnings-from-un-and-rights-groups"
+    },
+    {
+      "c": "Asia",
+      "k": "South Korea",
+      "m": "news",
+      "a": 1,
+      "h": "Korean border mine blast injures three South Korean soldiers",
+      "w": "A joint investigation by South Korea and the US-led UN Command identified a live North Korean anti-personnel mine south of the military demarcation line after two blasts seriously injured two soldiers and lightly injured a third. Pyongyang denied responsibility and threatened retaliation.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/sep/30/south-korea-apology-north-korea-mine-injures-soldiers"
+    },
+    {
+      "c": "Europe",
+      "k": "Ukraine",
+      "m": "news",
+      "a": 1,
+      "h": "Missile alerts cost Ukraine's economy $45 million an hour",
+      "w": "Ukraine's economy ministry estimates that each hour of nationwide air-raid disruption costs about $45 million as factories stop, shops close and workers shelter. Intensifying Russian strikes are turning civil-defence alerts into a recurring drag on production, tax revenue and investment.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/sep/30/missile-alerts-cost-ukraine-businesses-halt"
+    },
+    {
+      "c": "Europe",
+      "k": "Sweden",
+      "m": "policy",
+      "a": 1,
+      "h": "Swedish truth commission calls for state apology and redress for Sami people",
+      "w": "After four years of investigation and hundreds of interviews, the state-created commission issued a 71-point plan calling for an official apology, compensation, a reconciliation centre and stronger protection of Sami land, language and reindeer-herding rights.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/sep/30/sweden-sami-harm-apology-report"
+    },
+    {
+      "c": "North America",
+      "k": "United States of America",
+      "m": "policy",
+      "a": 1,
+      "h": "US blocks consensus on a UN pandemic-preparedness declaration",
+      "w": "The United States said it could not support a negotiated UN declaration on preventing and responding to future pandemics, stopping adoption by consensus. The nonbinding text addressed international cooperation, equitable access to medicines and unresolved technology-transfer rules.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/global-development/2026/sep/28/us-response-un-pandemic-talks-global-planning"
+    },
+    {
+      "c": "Oceania",
+      "k": "Fiji",
+      "m": "policy",
+      "a": 1,
+      "h": "Fiji declares a national HIV emergency as infections surge",
+      "w": "An estimated one in 60 adults in Fiji now lives with HIV, while new diagnoses rose 27% in 2025 and have increased twelvefold since 2010. Officials plan expanded testing and treatment and expect legislation allowing needle distribution, as shared injecting equipment drives more than 42% of new cases.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/sep/29/children-fiji-hiv-emergency-testing-drug-raid"
+    },
+    {
+      "c": "South America",
+      "k": "Brazil",
+      "m": "news",
+      "a": 1,
+      "h": "Threats force an Amazon news outlet to stop covering Brazil's election",
+      "w": "Tapajós de Fato said it will avoid election reporting after years of threats, surveillance and attacks against staff in Pará. The decision comes days before the 4 October vote and illustrates how violence is silencing local coverage of environmental, Indigenous-rights and land disputes.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/sep/30/brazil-newspaper-threats-tapajos-de-fato"
+    }
+  ]
+}
