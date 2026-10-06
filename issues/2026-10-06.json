@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-06",
+  "issue": "Issue 19 · 6 October 2026",
+  "stories": [
+    {
+      "c": "Africa",
+      "k": "Kenya",
+      "m": "news",
+      "a": 1,
+      "h": "Kenya confirms its first imported Ebola case as Congo outbreak spreads",
+      "w": "Kenya's Health Ministry confirmed that a citizen who travelled from Congo through Uganda tested positive for Ebola and died in Nairobi. The Congo outbreak has recorded at least 8,400 cases and more than 4,000 deaths, making regional containment increasingly urgent.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/kenya-congo-ebola-death-nairobi-32ccde1e74048396ad5cb9f9fe47495e"
+    },
+    {
+      "c": "Asia",
+      "k": "India",
+      "m": "policy",
+      "a": 1,
+      "h": "India's supreme court demands answers over mass voter-roll deletions",
+      "w": "The court ordered the Modi government, the Election Commission and its chief to respond transparently after a nationwide revision removed 130 million names from electoral rolls. The exercise has triggered mass protests and petitions seeking an independent inquiry.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/oct/05/india-protests-supreme-court-changes-voter-roll-modi-election-commission"
+    },
+    {
+      "c": "Europe",
+      "k": "Ukraine",
+      "m": "news",
+      "a": 1,
+      "h": "Kyiv says strikes have disabled more than half of Russia's refining capacity",
+      "w": "Ukraine's defence ministry says long-range attacks have taken out more than half of Russia's oil-refining capacity, disrupting fuel supplies and military logistics. Vladimir Putin separately acknowledged that the strikes have cost Russia roughly 1% of GDP.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/oct/06/ukraine-war-briefing-kyiv-claims-half-of-russias-oil-refining-capacity-destroyed"
+    },
+    {
+      "c": "North America",
+      "k": "United States of America",
+      "m": "policy",
+      "a": 1,
+      "h": "US supreme court weighs whether climate-damage lawsuits can proceed in state courts",
+      "w": "The justices heard a case that could determine the fate of dozens of local-government lawsuits seeking climate costs from oil companies. Boulder argues that Suncor and ExxonMobil should help cover disaster costs, while the companies say federal law blocks state-court claims.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/6f8bb7d17b03c128017c961f872cff3e"
+    },
+    {
+      "c": "Oceania",
+      "k": "Australia",
+      "m": "news",
+      "a": 1,
+      "h": "Australia records its second-hottest September",
+      "w": "Bureau of Meteorology data put national temperatures 2.71C above the 1961-90 average, with the hottest September nights on record. Snow depth at Kosciuszko's long-running gauge fell to zero during September for the first time since monitoring began in 1954.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/australia-news/2026/oct/05/australia-weather-el-nino-climate-crisisseptember-record"
+    },
+    {
+      "c": "South America",
+      "k": "Brazil",
+      "m": "news",
+      "a": 1,
+      "h": "Brazil heads to a presidential runoff after Flávio Bolsonaro tops Lula",
+      "w": "With 99.9% counted, Bolsonaro won 47% to President Luiz Inácio Lula da Silva's 45.1%, forcing a 25 October second round. The far right also made broad congressional and gubernatorial gains, leaving Bolsonaro the favourite for the runoff.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/oct/05/brazil-presidential-race-election-result-second-round-lula-flavio-bolsonaro"
+    }
+  ]
+}

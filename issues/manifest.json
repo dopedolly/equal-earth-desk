@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "issues": [
+    {
+      "date": "2026-10-06",
+      "issue": "Issue 19 · 6 October 2026",
+      "count": 6
+    },
+    {
+      "date": "2026-09-30",
+      "issue": "Issue 18 · 30 September 2026",
+      "count": 9
+    },
+    {
+      "date": "2026-09-28",
+      "issue": "Issue 17 · 28 September 2026",
+      "count": 8
+    },
+    {
+      "date": "2026-09-26",
+      "issue": "Issue 16 · 26 September 2026",
+      "count": 5
+    },
+    {
+      "date": "2026-09-25",
+      "issue": "Issue 15 · 25 September 2026",
+      "count": 4
+    },
+    {
+      "date": "2026-09-24",
+      "issue": "Issue 14 · 24 September 2026",
+      "count": 4
+    },
+    {
+      "date": "2026-09-23",
+      "issue": "Issue 13 · 23 September 2026",
+      "count": 4
+    },
+    {
+      "date": "2026-09-22",
+      "issue": "Issue 12 · 22 September 2026",
+      "count": 3
+    },
+    {
+      "date": "2026-09-20",
+      "issue": "Issue 11 · 20 September 2026",
+      "count": 1
+    },
+    {
+      "date": "2026-09-19",
+      "issue": "Issue 10 · 19 September 2026",
+      "count": 9
+    },
+    {
+      "date": "2026-09-16",
+      "issue": "Issue 09 · 16 September 2026",
+      "count": 10
+    },
+    {
+      "date": "2026-09-15",
+      "issue": "Issue 08 · 15 September 2026",
+      "count": 8
+    },
+    {
+      "date": "2026-09-14",
+      "issue": "Issue 07 · 14 September 2026",
+      "count": 8
+    },
+    {
+      "date": "2026-09-13",
+      "issue": "Issue 06 · 13 September 2026",
+      "count": 10
+    },
+    {
+      "date": "2026-09-12",
+      "issue": "Issue 05 · 12 September 2026",
+      "count": 13
+    },
+    {
+      "date": "2026-09-11",
+      "issue": "Issue 04 · 11 September 2026",
+      "count": 16
+    },
+    {
+      "date": "2026-09-10",
+      "issue": "Issue 03 · 10 September 2026",
+      "count": 25
+    },
+    {
+      "date": "2026-08-20",
+      "issue": "Issue 02 · 20 August 2026",
+      "count": 8
+    },
+    {
+      "date": "2026-08-19",
+      "issue": "Issue 01 · 19 August 2026",
+      "count": 35
+    }
+  ]
+}
