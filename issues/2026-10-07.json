@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-07",
+  "issue": "Issue 20 · 7 October 2026",
+  "stories": [
+    {
+      "c": "Africa",
+      "k": "Dem. Rep. Congo",
+      "m": "news",
+      "a": 1,
+      "h": "Congo's Ebola outbreak creates new hot spots as contact tracing falters",
+      "w": "Africa CDC says more than 70% of new cases are outside known contact chains and 60% of deaths occur outside treatment centres. North Kivu now accounts for about 40% of newly confirmed cases, while responders describe severe shortages and a disorganised response.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/congo-ebola-kaseya-northkivu-outbreak-disease-42e9c7f66b9ee7628b0a852a4e9dd73b"
+    },
+    {
+      "c": "Asia",
+      "k": "Japan",
+      "m": "news",
+      "a": 1,
+      "h": "Japan's prime minister condemns alleged killing involving a US Marine on Okinawa",
+      "w": "Prime Minister Sanae Takaichi called the alleged killing of a 39-year-old woman heinous and urged US forces to enforce discipline. The arrest has renewed tensions over the heavy US military presence on Okinawa, where reported crimes involving American troops have risen.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/oct/06/sanae-takaichi-protest-us-marine-arrested-killing-woman-okinawa-japan"
+    },
+    {
+      "c": "Europe",
+      "k": "Ukraine",
+      "m": "news",
+      "a": 1,
+      "h": "Russian missile and drone barrage kills at least 24 across Ukraine",
+      "w": "Overnight strikes hit Kyiv and at least a dozen other regions, killing at least 24 civilians, including four children, and wounding about 60, according to Ukrainian officials. The attack again exposed shortages of Patriot interceptors as Russia escalates its aerial campaign.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/russia-ukraine-war-kyiv-strike-650e298d7bc3881351533683ff4040ed"
+    },
+    {
+      "c": "North America",
+      "k": "United States of America",
+      "m": "policy",
+      "a": 1,
+      "h": "US justice department files 40 denaturalization cases",
+      "w": "The justice department filed actions seeking to revoke the citizenship of 40 naturalized Americans accused of concealing serious crimes or other material facts. Officials called it the administration's largest single-period initiative, expanding a process historically used only sporadically.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/us-news/2026/oct/06/trump-justice-department-denaturalize-citizens-crimes"
+    },
+    {
+      "c": "Oceania",
+      "k": "Australia",
+      "m": "policy",
+      "a": 1,
+      "h": "Australia's high court overturns approval for a major coal-mine expansion",
+      "w": "In a landmark 3-2 judgment, the court ruled that New South Wales planners failed to consider conditions to minimise emissions from coal burned overseas. The decision invalidated the Mount Pleasant expansion and sets a binding state precedent for assessing exported emissions.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/environment/2026/oct/07/mount-pleasant-coalmine-case-high-court-climate-change-hunter-valley"
+    },
+    {
+      "c": "South America",
+      "k": "Brazil",
+      "m": "policy",
+      "a": 1,
+      "h": "Brazil's far-right congressional gains put Indigenous and Amazon protections at risk",
+      "w": "Flávio Bolsonaro's Liberal Party emerged as the largest party in both chambers, strengthening lawmakers who favour mining on Indigenous land. The incoming Congress must regulate the issue after a supreme court order, raising the stakes for rainforest and community protections.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/brazil-elections-amazon-rainforest-indigenous-rights-15b7e53f1e7db172c5338d0d57a2a2d2"
+    }
+  ]
+}
