@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-08",
+  "issue": "Issue 21 · 8 October 2026",
+  "stories": [
+    {
+      "c": "Africa",
+      "k": "Zambia",
+      "m": "policy",
+      "a": 1,
+      "h": "US and Zambia sign $2.49bn health pact after dropping data-sharing clauses",
+      "w": "The five-year agreement commits $1.52bn from the US and $975m from Zambia, including plans to recruit 40,000 health workers. Zambia said contested requirements to share patient data and biological specimens were removed and the pact is not tied to mineral access.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/zambia-us-health-deal-specimen-data-926edb9ab38b144bb1b83f73e5645f1b"
+    },
+    {
+      "c": "Asia",
+      "k": "South Korea",
+      "m": "policy",
+      "a": 1,
+      "h": "South Korea investigates fuel shipments to Russia and threatens legal action",
+      "w": "Seoul is examining 14 voyages that carried more than 176,000 tonnes of fuel from Korean ports to Russia, including trips by three sanctioned tankers. The government said it would prosecute any violations after reviewing routes, declarations and ownership.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law"
+    },
+    {
+      "c": "Europe",
+      "k": "Ukraine",
+      "m": "news",
+      "a": 1,
+      "h": "Russian strike beside passenger buses kills 30 in eastern Ukraine",
+      "w": "A guided bomb exploded near loaded public buses in Kramatorsk, killing 30 people as follow-up drone attacks hampered rescuers, Ukrainian authorities said. The attack came as worsening strikes on energy infrastructure triggered emergency power cuts in Kyiv.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/russia-ukraine-war-drones-missiles-zelenskyy-putin-7f395d215bb67082da29f9c4467ef776"
+    },
+    {
+      "c": "North America",
+      "k": "United States of America",
+      "m": "policy",
+      "a": 1,
+      "h": "Trump administration suspends Microsoft from skilled-worker green-card program",
+      "w": "Officials accused Microsoft and several other companies of abusing a labor-certification program used to sponsor foreign workers for permanent residence. The move intensifies the administration's restrictions on high-skilled immigration and is expected to affect technology hiring.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/e7b3a407f822702b269ee277d21343ea"
+    },
+    {
+      "c": "Oceania",
+      "k": "New Zealand",
+      "m": "news",
+      "a": 1,
+      "h": "New Zealand reports record greenhouse-gas levels and accelerating glacier loss",
+      "w": "A government climate assessment says national temperatures have risen 1.36C since 1909 and glacier volume fell from 56 cubic kilometres in 1997 to 30 in 2023. Under a high-emissions scenario, the country could lose up to all remaining glacier volume by 2100.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/oct/07/new-zealand-greenhouse-gas-record-high-threatening-catastrophic-glacier-melts-climate"
+    },
+    {
+      "c": "South America",
+      "k": "Venezuela",
+      "m": "policy",
+      "a": 1,
+      "h": "US prosecutors add sweeping torture charges against Nicolás Maduro and his wife",
+      "w": "A revised federal indictment accuses the former Venezuelan president and Cilia Flores of directing a state system of repression that used beatings, asphyxiation and electric shocks, including against Americans. Both deny existing charges, and their lawyers are reviewing the new allegations.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/da82df35aab0f02e344d1c3de0ed31d7"
+    }
+  ]
+}
