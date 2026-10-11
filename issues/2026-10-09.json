@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-09",
+  "issue": "Issue 22 · 9 October 2026",
+  "stories": [
+    {
+      "c": "Africa",
+      "k": "South Africa",
+      "m": "news",
+      "a": 1,
+      "h": "South African jurist Navi Pillay wins the Nobel Peace Prize",
+      "w": "The Nobel committee honored the former UN human rights chief for advancing international justice, citing her role in building legal institutions that prosecute genocide, war crimes and crimes against humanity. Pillay dedicated the award to survivors of international crimes.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/oct/09/icj-judge-navi-pillay-wins-nobel-peace-prize"
+    },
+    {
+      "c": "Asia",
+      "k": "China",
+      "m": "policy",
+      "a": 1,
+      "h": "China and EU reach interim trade deal on cars, tariffs and rare earths",
+      "w": "After two days of talks, the two sides announced a preliminary package covering lower Chinese tariffs on some European goods, steadier rare-earth supplies and limits that could sharply reduce Chinese plug-in hybrid exports to Europe. EU leaders must still approve the agreement.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/54c9c71e85f92dc0003780fc53f0b250"
+    },
+    {
+      "c": "Europe",
+      "k": "Montenegro",
+      "m": "policy",
+      "a": 1,
+      "h": "Montenegro arrests influential pro-Kremlin military blogger",
+      "w": "Police detained Rybar founder Mikhail Zvinchuk, his wife and three other Russians after warnings about destabilization and hybrid warfare. The case tests Montenegro's effort to align with the EU while confronting Russian influence; the detainees deny breaking local law.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/oct/09/russian-military-blogger-mikhail-zvinchuk-rybar-arrested-montenegro"
+    },
+    {
+      "c": "North America",
+      "k": "United States of America",
+      "m": "news",
+      "a": 1,
+      "h": "Hurricane Isaias strikes Florida as a Category 2 storm",
+      "w": "The first Atlantic hurricane of 2026 made landfall near Destin after more than 400,000 customers lost power in Florida and Alabama. Authorities warned of a life-threatening storm surge up to seven feet, inland hurricane-force winds and severe flooding.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-makes-landfall"
+    },
+    {
+      "c": "Oceania",
+      "k": "Australia",
+      "m": "policy",
+      "a": 1,
+      "h": "Regulator warns Australia's immigration detention system may be breaking safety law",
+      "w": "Internal notices documented stabbings, an opioid overdose, improvised weapons and eight fires at detention centers in Melbourne and Sydney. Federal safety regulator Comcare said the government had not shown that its contractor's controls protected detainees and staff.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/australia-news/2026/oct/09/australia-immigration-detention-centres-overdoses-fires-prison-ice-ntwnfb"
+    },
+    {
+      "c": "South America",
+      "k": "Chile",
+      "m": "news",
+      "a": 0,
+      "h": "Mudslides sweep cars through Santiago after heavy rain",
+      "w": "Flooding damaged homes and vehicles after the Mapocho River overflowed in Chile's capital. Authorities said at least six people were injured and helicopters rescued residents trapped by rising water.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/video/2026/oct/09/heavy-rain-hits-chiles-capital-damaging-vehicles-and-homes-video"
+    }
+  ]
+}
