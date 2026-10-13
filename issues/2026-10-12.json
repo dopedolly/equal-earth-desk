@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-12",
+  "issue": "Issue 24 · 12 October 2026",
+  "stories": [
+    {
+      "c": "Africa",
+      "k": "Djibouti",
+      "m": "news",
+      "a": 1,
+      "h": "Djibouti shipwreck death toll rises to at least 139",
+      "w": "The International Organization for Migration said 139 people, including 15 children, died when a boat carrying 305 migrants capsized en route to Yemen. Eighty-four remained missing and 82 Ethiopian nationals survived, making it one of the eastern migration route's deadliest recorded disasters.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/oct/11/deaths-migrant-boat-capsizes-djibouti"
+    },
+    {
+      "c": "Asia",
+      "k": "Pakistan",
+      "m": "policy",
+      "a": 1,
+      "h": "Pakistan suspends provincial government and detains hundreds from Imran Khan's party",
+      "w": "President Asif Ali Zardari imposed emergency rule in Khyber Pakhtunkhwa for at least six months, removing its elected PTI-led government. Officials said 278 party members were detained as supporters marched for Khan's release; PTI called the move an undemocratic power grab.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/1475e4a5ede9d59131c06bacd1b70579"
+    },
+    {
+      "c": "Europe",
+      "k": "Ukraine",
+      "m": "news",
+      "a": 1,
+      "h": "Russia strikes Ukraine's power grid after an unagreed ceasefire announcement",
+      "w": "Russia hit six Ukrainian energy facilities after Donald Trump announced an “energy ceasefire” that Kyiv said neither side had accepted. With early blackouts and water shortages ahead of winter, President Volodymyr Zelenskyy said Ukraine would retaliate unless Moscow stopped attacking the grid.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/oct/12/zelenskyy-vows-retaliate-russia-strikes-ukraine-power-grid"
+    },
+    {
+      "c": "Oceania",
+      "k": "Australia",
+      "m": "news",
+      "a": 1,
+      "h": "Australia's electric-vehicle surge begins cushioning the oil-price shock",
+      "w": "Battery EVs reached nearly a quarter of new-vehicle sales, while EVs and hybrids together made up about half. Cheaper Chinese models are lowering vehicle, fuel and insurance costs even as diesel exceeds A$2.80 a litre and the Reserve Bank warns that the Iran conflict is keeping inflation high.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/environment/2026/oct/13/inflation-australia-petrol-prices-byd-electric-vehicle-economy"
+    }
+  ]
+}
