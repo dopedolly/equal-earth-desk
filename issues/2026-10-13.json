@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-13",
+  "issue": "Issue 25 · 13 October 2026",
+  "stories": [
+    {
+      "c": "North America",
+      "k": "Mexico",
+      "m": "news",
+      "a": 1,
+      "h": "Hurricane Simon and Rachel's remnants kill six in Mexico",
+      "w": "Flooding and landslides along Mexico's Pacific coast killed six people, including a 13-year-old girl and a four-year-old boy. Simon remained offshore as a Category 1 hurricane while Nayarit and Sinaloa stayed on alert for rising rivers and further flooding.",
+      "s": "Associated Press",
+      "u": "https://apnews.com/article/1276142fb7db0f50d0f61d86ae7fa977"
+    },
+    {
+      "c": "South America",
+      "k": "Bolivia",
+      "m": "policy",
+      "a": 1,
+      "h": "Bolivia opens murder and torture investigation into Evo Morales",
+      "w": "The attorney general began gathering evidence over the 2009 police raid that killed three Europeans and allegedly tortured two survivors. The Inter-American Commission on Human Rights previously found state violations; Morales and his former vice-president are accused but have not commented on the new inquiry.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/oct/12/bolivia-investigates-ex-president-evo-morales-2009-killings"
+    },
+    {
+      "c": "Europe",
+      "k": "Ukraine",
+      "m": "news",
+      "a": 1,
+      "h": "Kyiv received no allied warning before Russian ballistic missile strike",
+      "w": "Five missiles hit civilian infrastructure in Kyiv without advance warning from Ukraine's partners, President Volodymyr Zelenskyy said. The gap matters because allied intelligence helps civilians seek shelter, while dwindling Patriot supplies leave Ukrainian cities increasingly exposed.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy"
+    },
+    {
+      "c": "Asia",
+      "k": "Saudi Arabia",
+      "m": "news",
+      "a": 1,
+      "h": "Saudi Arabia extends Riyadh airport shutdown after another Houthi attack",
+      "w": "A further missile attack caused new damage and killed one person, forcing Saudi Arabia to keep King Khalid International Airport closed for safety checks. The new strike followed an attack that killed 13 and injured more than 300, exposing persistent gaps in the kingdom's air defences.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport"
+    },
+    {
+      "c": "Oceania",
+      "k": "Australia",
+      "m": "policy",
+      "a": 1,
+      "h": "IMF oil-shock scenario could push Australian petrol toward A$2.70 a litre",
+      "w": "An IMF scenario in which oil reaches US$130 could add about 30 Australian cents a litre to petrol and keep inflation above forecasts. Reserve Bank minutes already record rising global cost pressures, raising the prospect of further interest-rate pain for households.",
+      "s": "The Guardian",
+      "u": "https://www.theguardian.com/australia-news/2026/oct/13/australia-fuel-prices-rise-imf-rba-us-oil-interest-rates"
+    }
+  ]
+}
